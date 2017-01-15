@@ -1,0 +1,19 @@
+
+POSSIBLE SOURCES OF PROBLEMS:
+
+    PCL
+        - not all optional dependencies satisfied
+        - never tested on clean system
+
+    GAZEBO
+        - not all optional dependencies satisfied
+        - ignition-tools and ignition-messages might help
+        - never tested on clean system
+
+    UDRFDOM
+        - urdfdom cannot be installed from sbotools with urdfdom-headers not installed because sbotools first downloads all packages and then installs them; problem is both packages are named
+            exactly the same
+
+
+
+    - player might have a problem with parallel builds or dependencies

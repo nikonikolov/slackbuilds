@@ -1,0 +1,11 @@
+Player is a robot device interface. It provides a network interface to a 
+variety of robot and sensor hardware. Player's client/server model allows 
+robot control programs to be written in any programming language and to run 
+on any computer with a network connection to the robot. Player supports 
+multiple concurrent client connections to devices, creating new possibilities 
+for distributed and collaborative sensing and control. 
+
+Player provides a clean and simple interface to the robot's sensors and 
+actuators over the IP network. Your client program talks to Player over 
+a TCP socket, reading data from sensors, writing commmands to actuators, 
+and configuring devices on the fly.

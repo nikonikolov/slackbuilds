@@ -1,0 +1,3016 @@
+player-3.0.2/
+player-3.0.2/INSTALL
+player-3.0.2/CMake_Todo.txt
+player-3.0.2/examples/
+player-3.0.2/examples/ruby/
+player-3.0.2/examples/ruby/fiducial.rb
+player-3.0.2/examples/ruby/test.rb
+player-3.0.2/examples/ruby/laser.rb
+player-3.0.2/examples/ruby/libplayerc++_ruby_example.rb
+player-3.0.2/examples/ruby/test_bindings_installation.rb
+player-3.0.2/examples/ruby/wifi.rb
+player-3.0.2/examples/ruby/simulation.rb
+player-3.0.2/examples/libplayerc/
+player-3.0.2/examples/libplayerc/simple.c
+player-3.0.2/examples/libplayerc/speech_c_client.c
+player-3.0.2/examples/libplayerc/CMakeLists.txt
+player-3.0.2/examples/libplayerc/CMakeLists.txt.example.in
+player-3.0.2/examples/libplayerc/.cvsignore
+player-3.0.2/examples/libplayerc/README
+player-3.0.2/examples/libplayerc/vmap.c
+player-3.0.2/examples/libplayerc/service_discovery.c
+player-3.0.2/examples/python/
+player-3.0.2/examples/python/playercpp_example.py
+player-3.0.2/examples/python/playercpy_example.py
+player-3.0.2/examples/CMakeLists.txt
+player-3.0.2/examples/.cvsignore
+player-3.0.2/examples/plugins/
+player-3.0.2/examples/plugins/opaquedriver/
+player-3.0.2/examples/plugins/opaquedriver/opaque.c
+player-3.0.2/examples/plugins/opaquedriver/opaque.cfg
+player-3.0.2/examples/plugins/opaquedriver/sharedstruct.h
+player-3.0.2/examples/plugins/opaquedriver/CMakeLists.txt
+player-3.0.2/examples/plugins/opaquedriver/opaquedriver.cc
+player-3.0.2/examples/plugins/opaquedriver/CMakeLists.txt.example.in
+player-3.0.2/examples/plugins/opaquedriver/.cvsignore
+player-3.0.2/examples/plugins/opaquedriver/README
+player-3.0.2/examples/plugins/exampledriver/
+player-3.0.2/examples/plugins/exampledriver/CMakeLists.txt
+player-3.0.2/examples/plugins/exampledriver/Makefile.libtool
+player-3.0.2/examples/plugins/exampledriver/example.cfg
+player-3.0.2/examples/plugins/exampledriver/CMakeLists.txt.example.in
+player-3.0.2/examples/plugins/exampledriver/.cvsignore
+player-3.0.2/examples/plugins/exampledriver/SConstruct
+player-3.0.2/examples/plugins/exampledriver/README
+player-3.0.2/examples/plugins/exampledriver/exampledriver.cc
+player-3.0.2/examples/plugins/exampledriver/src/
+player-3.0.2/examples/plugins/exampledriver/src/.cvsignore
+player-3.0.2/examples/plugins/exampledriver/Makefile.osx.example
+player-3.0.2/examples/plugins/exampledriver/Makefile.example
+player-3.0.2/examples/plugins/CMakeLists.txt
+player-3.0.2/examples/plugins/multidriver/
+player-3.0.2/examples/plugins/multidriver/CMakeLists.txt
+player-3.0.2/examples/plugins/multidriver/Makefile.libtool
+player-3.0.2/examples/plugins/multidriver/multidriver.cc
+player-3.0.2/examples/plugins/multidriver/CMakeLists.txt.example.in
+player-3.0.2/examples/plugins/multidriver/.cvsignore
+player-3.0.2/examples/plugins/multidriver/SConstruct
+player-3.0.2/examples/plugins/multidriver/README
+player-3.0.2/examples/plugins/multidriver/Makefile.osx.example
+player-3.0.2/examples/plugins/multidriver/Makefile.example
+player-3.0.2/examples/plugins/multidriver/multi.cfg
+player-3.0.2/examples/plugins/.cvsignore
+player-3.0.2/examples/plugins/logplugin/
+player-3.0.2/examples/plugins/logplugin/logplugin.cc
+player-3.0.2/examples/plugins/logplugin/Makefile.libtool
+player-3.0.2/examples/plugins/logplugin/README
+player-3.0.2/examples/plugins/logplugin/log.cfg
+player-3.0.2/examples/plugins/logplugin/Makefile.osx.example
+player-3.0.2/examples/plugins/logplugin/Makefile.example
+player-3.0.2/examples/plugins/exampleinterface/
+player-3.0.2/examples/plugins/exampleinterface/128_example.def
+player-3.0.2/examples/plugins/exampleinterface/eginterf_client.h
+player-3.0.2/examples/plugins/exampleinterface/example_client.c
+player-3.0.2/examples/plugins/exampleinterface/eginterf_driver.cc
+player-3.0.2/examples/plugins/exampleinterface/CMakeLists.txt
+player-3.0.2/examples/plugins/exampleinterface/eginterf_client.c
+player-3.0.2/examples/plugins/exampleinterface/example.cfg
+player-3.0.2/examples/plugins/exampleinterface/CMakeLists.txt.example.in
+player-3.0.2/examples/plugins/exampleinterface/.cvsignore
+player-3.0.2/examples/plugins/exampleinterface/README
+player-3.0.2/examples/plugins/exampleinterface/Makefile.example
+player-3.0.2/examples/libplayerc++/
+player-3.0.2/examples/libplayerc++/sonarobstacleavoid.cc
+player-3.0.2/examples/libplayerc++/example0.cc
+player-3.0.2/examples/libplayerc++/camera.cc
+player-3.0.2/examples/libplayerc++/goto.cc
+player-3.0.2/examples/libplayerc++/clientgraphics.cc
+player-3.0.2/examples/libplayerc++/CMakeLists.txt
+player-3.0.2/examples/libplayerc++/wallfollow.cc
+player-3.0.2/examples/libplayerc++/example2.cc
+player-3.0.2/examples/libplayerc++/args.h
+player-3.0.2/examples/libplayerc++/example1.cc
+player-3.0.2/examples/libplayerc++/speech.cc
+player-3.0.2/examples/libplayerc++/ptz.cc
+player-3.0.2/examples/libplayerc++/CMakeLists.txt.example.in
+player-3.0.2/examples/libplayerc++/.cvsignore
+player-3.0.2/examples/libplayerc++/example4.cc
+player-3.0.2/examples/libplayerc++/randomwalk.cc
+player-3.0.2/examples/libplayerc++/README
+player-3.0.2/examples/libplayerc++/laserobstacleavoid.cc
+player-3.0.2/examples/libplayerc++/example3.cc
+player-3.0.2/examples/libplayerc++/clientgraphics3d.cc
+player-3.0.2/examples/libplayerc++/speech_cpp_client.cc
+player-3.0.2/examples/libplayerc++/grip.cc
+player-3.0.2/examples/m/
+player-3.0.2/examples/m/wanderer.m
+player-3.0.2/examples/m/goto.m
+player-3.0.2/libplayercore/
+player-3.0.2/libplayercore/devicetable.cc
+player-3.0.2/libplayercore/remote_driver.cc
+player-3.0.2/libplayercore/globals.h
+player-3.0.2/libplayercore/drivertable.h
+player-3.0.2/libplayercore/configfile.h
+player-3.0.2/libplayercore/wallclocktime.h
+player-3.0.2/libplayercore/remote_driver.h
+player-3.0.2/libplayercore/plugins.cc
+player-3.0.2/libplayercore/driver.cc
+player-3.0.2/libplayercore/configfile.cc
+player-3.0.2/libplayercore/CMakeLists.txt
+player-3.0.2/libplayercore/device.h
+player-3.0.2/libplayercore/plugins.h
+player-3.0.2/libplayercore/devicetable.h
+player-3.0.2/libplayercore/message.h
+player-3.0.2/libplayercore/bindings/
+player-3.0.2/libplayercore/bindings/.cvsignore
+player-3.0.2/libplayercore/bindings/java/
+player-3.0.2/libplayercore/bindings/java/parse.py
+player-3.0.2/libplayercore/bindings/java/main.java
+player-3.0.2/libplayercore/bindings/java/.cvsignore
+player-3.0.2/libplayercore/bindings/java/playercore_java.i
+player-3.0.2/libplayercore/playertime.h
+player-3.0.2/libplayercore/.cvsignore
+player-3.0.2/libplayercore/property.h
+player-3.0.2/libplayercore/driver.h
+player-3.0.2/libplayercore/drivertable.cc
+player-3.0.2/libplayercore/filewatcher.h
+player-3.0.2/libplayercore/playercore.h
+player-3.0.2/libplayercore/device.cc
+player-3.0.2/libplayercore/threaded_driver.cc
+player-3.0.2/libplayercore/property.cpp
+player-3.0.2/libplayercore/filewatcher.cc
+player-3.0.2/libplayercore/globals.cc
+player-3.0.2/libplayercore/message.cc
+player-3.0.2/libplayercore/wallclocktime.cc
+player-3.0.2/win32_todo.txt
+player-3.0.2/copyright_header
+player-3.0.2/libplayerwkb/
+player-3.0.2/libplayerwkb/CMakeLists.txt
+player-3.0.2/libplayerwkb/playerwkb.h
+player-3.0.2/libplayerwkb/playerwkb.c
+player-3.0.2/patch/
+player-3.0.2/patch/artoolkitplus.pc
+player-3.0.2/libplayertcp/
+player-3.0.2/libplayertcp/playertcp.h
+player-3.0.2/libplayertcp/tcpremote_driver.cc
+player-3.0.2/libplayertcp/playertcp_errutils.h
+player-3.0.2/libplayertcp/playerudp.h
+player-3.0.2/libplayertcp/CMakeLists.txt
+player-3.0.2/libplayertcp/playertcp.cc
+player-3.0.2/libplayertcp/playerudp.cc
+player-3.0.2/libplayertcp/bindings/
+player-3.0.2/libplayertcp/bindings/.cvsignore
+player-3.0.2/libplayertcp/bindings/java/
+player-3.0.2/libplayertcp/bindings/java/main.java
+player-3.0.2/libplayertcp/bindings/java/playertcp_java.i
+player-3.0.2/libplayertcp/bindings/java/.cvsignore
+player-3.0.2/libplayertcp/.cvsignore
+player-3.0.2/libplayertcp/tcpremote_driver.h
+player-3.0.2/libplayertcp/socket_util.h
+player-3.0.2/libplayertcp/socket_util.c
+player-3.0.2/config.h.in
+player-3.0.2/libplayerjpeg/
+player-3.0.2/libplayerjpeg/playerjpeg.h
+player-3.0.2/libplayerjpeg/CMakeLists.txt
+player-3.0.2/libplayerjpeg/.cvsignore
+player-3.0.2/libplayerjpeg/playerjpeg.c
+player-3.0.2/playerconfig.h.in
+player-3.0.2/AUTHORS
+player-3.0.2/cmake/
+player-3.0.2/cmake/UsePlayerC++.cmake.in
+player-3.0.2/cmake/UsePlayerPlugin.cmake.in
+player-3.0.2/cmake/internal/
+player-3.0.2/cmake/internal/FindOS.cmake
+player-3.0.2/cmake/internal/LibraryUtils.cmake
+player-3.0.2/cmake/internal/CompileLatex.cmake
+player-3.0.2/cmake/internal/UseSwig_Player.cmake
+player-3.0.2/cmake/internal/CheckCompiler.cmake
+player-3.0.2/cmake/internal/UninstallTarget.cmake
+player-3.0.2/cmake/internal/GeneralCompileOptions.cmake
+player-3.0.2/cmake/internal/setdlldirectory.c
+player-3.0.2/cmake/internal/cmake_uninstall.cmake.in
+player-3.0.2/cmake/internal/SetupDirectories.cmake
+player-3.0.2/cmake/internal/DissectVersion.cmake
+player-3.0.2/cmake/internal/ProcessInterfaces.cmake
+player-3.0.2/cmake/internal/SearchForStuff.cmake
+player-3.0.2/cmake/internal/DriverUtils.cmake
+player-3.0.2/cmake/UsePlayerC.cmake.in
+player-3.0.2/cmake/player.ico
+player-3.0.2/cmake/pkgconfig.cmake
+player-3.0.2/cmake/player.bmp
+player-3.0.2/cmake/CMakeLists.txt
+player-3.0.2/cmake/PlayerUtils.cmake
+player-3.0.2/utils/
+player-3.0.2/utils/barcodes/
+player-3.0.2/utils/barcodes/upc-4-4-0.fig
+player-3.0.2/utils/barcodes/barcodes.py
+player-3.0.2/utils/barcodes/.cvsignore
+player-3.0.2/utils/barcodes/README
+player-3.0.2/utils/barcodes/upc-4-4-0-large.fig
+player-3.0.2/utils/playerprop/
+player-3.0.2/utils/playerprop/playerprop.cpp
+player-3.0.2/utils/playerprop/CMakeLists.txt
+player-3.0.2/utils/playerprop/.cvsignore
+player-3.0.2/utils/dgps_server/
+player-3.0.2/utils/dgps_server/dgps_novatel.py
+player-3.0.2/utils/dgps_server/CMakeLists.txt
+player-3.0.2/utils/dgps_server/.cvsignore
+player-3.0.2/utils/dgps_server/dgps_server.dox
+player-3.0.2/utils/dgps_server/dgps_server.py
+player-3.0.2/utils/playervcr/
+player-3.0.2/utils/playervcr/playervcr-readlog.jpg
+player-3.0.2/utils/playervcr/CMakeLists.txt
+player-3.0.2/utils/playervcr/.cvsignore
+player-3.0.2/utils/playervcr/playervcr.c
+player-3.0.2/utils/playervcr/playervcr-writelog.jpg
+player-3.0.2/utils/playerv/
+player-3.0.2/utils/playerv/pv_dev_wifi.c
+player-3.0.2/utils/playerv/error.h
+player-3.0.2/utils/playerv/pv_dev_gripper.c
+player-3.0.2/utils/playerv/pv_dev_dio.c
+player-3.0.2/utils/playerv/pv_dev_laser.c
+player-3.0.2/utils/playerv/pv_dev_map.c
+player-3.0.2/utils/playerv/pv_dev_position2d.c
+player-3.0.2/utils/playerv/pv_dev_camera.c
+player-3.0.2/utils/playerv/pv_dev_ptz.c
+player-3.0.2/utils/playerv/playerv.c
+player-3.0.2/utils/playerv/pv_dev_ranger.c
+player-3.0.2/utils/playerv/pv_dev_aio.c
+player-3.0.2/utils/playerv/CMakeLists.txt
+player-3.0.2/utils/playerv/pv_dev_ir.c
+player-3.0.2/utils/playerv/pv_dev_localize.c
+player-3.0.2/utils/playerv/registry.c
+player-3.0.2/utils/playerv/opt.c
+player-3.0.2/utils/playerv/pv_dev_sonar.c
+player-3.0.2/utils/playerv/playerv-sonar.jpg
+player-3.0.2/utils/playerv/.cvsignore
+player-3.0.2/utils/playerv/opt.h
+player-3.0.2/utils/playerv/pv_dev_power.c
+player-3.0.2/utils/playerv/pv_dev_actarray.c
+player-3.0.2/utils/playerv/pv_dev_fiducial.c
+player-3.0.2/utils/playerv/mainwnd.c
+player-3.0.2/utils/playerv/playerv-laser-blobfinder-ptz.jpg
+player-3.0.2/utils/playerv/playerv.h
+player-3.0.2/utils/playerv/pv_dev_bumper.c
+player-3.0.2/utils/playerv/pv_dev_blobfinder.c
+player-3.0.2/utils/playerv/pv_dev_vectormap.c
+player-3.0.2/utils/pmap/
+player-3.0.2/utils/pmap/lodo.h
+player-3.0.2/utils/pmap/pmap_test.cpp
+player-3.0.2/utils/pmap/pmap.cpp
+player-3.0.2/utils/pmap/omap.h
+player-3.0.2/utils/pmap/pmapconfig.h.in
+player-3.0.2/utils/pmap/omap.cpp
+player-3.0.2/utils/pmap/CMakeLists.txt
+player-3.0.2/utils/pmap/rmap.h
+player-3.0.2/utils/pmap/pmap.h
+player-3.0.2/utils/pmap/.cvsignore
+player-3.0.2/utils/pmap/rmap.cpp
+player-3.0.2/utils/pmap/logfile.cpp
+player-3.0.2/utils/pmap/slap.cpp
+player-3.0.2/utils/pmap/logfile.h
+player-3.0.2/utils/pmap/slap.h
+player-3.0.2/utils/pmap/lodo.cpp
+player-3.0.2/utils/pmap/lodo_driver.cc
+player-3.0.2/utils/playerprint/
+player-3.0.2/utils/playerprint/playerprint.cc
+player-3.0.2/utils/playerprint/CMakeLists.txt
+player-3.0.2/utils/playerprint/.cvsignore
+player-3.0.2/utils/CMakeLists.txt
+player-3.0.2/utils/playerjoy/
+player-3.0.2/utils/playerjoy/playerjoy.cc
+player-3.0.2/utils/playerjoy/CMakeLists.txt
+player-3.0.2/utils/playerjoy/.cvsignore
+player-3.0.2/utils/.cvsignore
+player-3.0.2/utils/playerwritemap/
+player-3.0.2/utils/playerwritemap/playerwritemap.c
+player-3.0.2/utils/playerwritemap/CMakeLists.txt
+player-3.0.2/utils/playerwritemap/.cvsignore
+player-3.0.2/utils/xmms-plugin/
+player-3.0.2/utils/xmms-plugin/AUTHORS
+player-3.0.2/utils/xmms-plugin/CMakeLists.txt
+player-3.0.2/utils/xmms-plugin/playerxmms.c
+player-3.0.2/utils/xmms-plugin/.cvsignore
+player-3.0.2/utils/xmms-plugin/README
+player-3.0.2/utils/playernav/
+player-3.0.2/utils/playernav/playernav.h
+player-3.0.2/utils/playernav/parse.c
+player-3.0.2/utils/playernav/gui.c
+player-3.0.2/utils/playernav/playernav.c
+player-3.0.2/utils/playernav/CMakeLists.txt
+player-3.0.2/utils/playernav/player.c
+player-3.0.2/utils/playernav/.cvsignore
+player-3.0.2/utils/playernav/playernav-example.jpg
+player-3.0.2/utils/playerlog2carmenlog.py
+player-3.0.2/utils/logsplitter/
+player-3.0.2/utils/logsplitter/logsplitter.c
+player-3.0.2/utils/logsplitter/CMakeLists.txt
+player-3.0.2/utils/logsplitter/.cvsignore
+player-3.0.2/utils/playercam/
+player-3.0.2/utils/playercam/CMakeLists.txt
+player-3.0.2/utils/playercam/playercam.c
+player-3.0.2/utils/playercam/.cvsignore
+player-3.0.2/libplayersd/
+player-3.0.2/libplayersd/playersd_mdns.c
+player-3.0.2/libplayersd/playersd.c
+player-3.0.2/libplayersd/CMakeLists.txt
+player-3.0.2/libplayersd/playersd.h
+player-3.0.2/libplayersd/.cvsignore
+player-3.0.2/COPYING.lib
+player-3.0.2/COPYING
+player-3.0.2/CMakeLists.txt
+player-3.0.2/server/
+player-3.0.2/server/server.cc
+player-3.0.2/server/timer.h
+player-3.0.2/server/prefix.h.in
+player-3.0.2/server/CMakeLists.txt
+player-3.0.2/server/libplayerdrivers/
+player-3.0.2/server/libplayerdrivers/driverregistry.h
+player-3.0.2/server/libplayerdrivers/CMakeLists.txt
+player-3.0.2/server/libplayerdrivers/.cvsignore
+player-3.0.2/server/codetools/
+player-3.0.2/server/codetools/find_no_copyright.sh
+player-3.0.2/server/codetools/saphconv/
+player-3.0.2/server/codetools/saphconv/parseparam.tcl
+player-3.0.2/server/codetools/saphconv/mktypedef.tcl
+player-3.0.2/server/codetools/saphconv/README
+player-3.0.2/server/codetools/saphconv/saphconv.tcl
+player-3.0.2/server/codetools/authorcheck.py
+player-3.0.2/server/drivers/
+player-3.0.2/server/drivers/ptz/
+player-3.0.2/server/drivers/ptz/ptu46.cc
+player-3.0.2/server/drivers/ptz/amtecpowercube.cc
+player-3.0.2/server/drivers/ptz/sonyevid30.cc
+player-3.0.2/server/drivers/ptz/CMakeLists.txt
+player-3.0.2/server/drivers/ptz/canonvcc4.cc
+player-3.0.2/server/drivers/ptz/.cvsignore
+player-3.0.2/server/drivers/ptz/sphereptz/
+player-3.0.2/server/drivers/ptz/sphereptz/v4l2_dyna_ctrls.h
+player-3.0.2/server/drivers/ptz/sphereptz/CMakeLists.txt
+player-3.0.2/server/drivers/ptz/sphereptz/v4l2_controls.h
+player-3.0.2/server/drivers/ptz/sphereptz/sphereptz.cc
+player-3.0.2/server/drivers/fiducial/
+player-3.0.2/server/drivers/fiducial/laserbar.cc
+player-3.0.2/server/drivers/fiducial/laservisualbarcode.cc
+player-3.0.2/server/drivers/fiducial/laserbarcode.cc
+player-3.0.2/server/drivers/fiducial/CMakeLists.txt
+player-3.0.2/server/drivers/fiducial/laservisualbeacon.jpg
+player-3.0.2/server/drivers/fiducial/.cvsignore
+player-3.0.2/server/drivers/fiducial/beacon.jpg
+player-3.0.2/server/drivers/fiducial/laservisualbw.cc
+player-3.0.2/server/drivers/fiducial/laserfeature.cc
+player-3.0.2/server/drivers/audiomixer/
+player-3.0.2/server/drivers/audiomixer/.cvsignore
+player-3.0.2/server/drivers/pointcloud3d/
+player-3.0.2/server/drivers/pointcloud3d/CMakeLists.txt
+player-3.0.2/server/drivers/pointcloud3d/laserptzcloud.cc
+player-3.0.2/server/drivers/pointcloud3d/.cvsignore
+player-3.0.2/server/drivers/power/
+player-3.0.2/server/drivers/power/oceanserver.cc
+player-3.0.2/server/drivers/power/CMakeLists.txt
+player-3.0.2/server/drivers/opaque/
+player-3.0.2/server/drivers/opaque/tcpstream.cc
+player-3.0.2/server/drivers/opaque/serialstream.cc
+player-3.0.2/server/drivers/opaque/CMakeLists.txt
+player-3.0.2/server/drivers/opaque/.cvsignore
+player-3.0.2/server/drivers/opaque/flexiport.cc
+player-3.0.2/server/drivers/gps/
+player-3.0.2/server/drivers/gps/gbxgarminacfr.cc
+player-3.0.2/server/drivers/gps/rt3xxx.cc
+player-3.0.2/server/drivers/gps/CMakeLists.txt
+player-3.0.2/server/drivers/gps/.cvsignore
+player-3.0.2/server/drivers/gps/garminnmea.cc
+player-3.0.2/server/drivers/shell/
+player-3.0.2/server/drivers/shell/inhibitor.cc
+player-3.0.2/server/drivers/shell/velcmd.cc
+player-3.0.2/server/drivers/shell/postlog.cc
+player-3.0.2/server/drivers/shell/gripcmd.cc
+player-3.0.2/server/drivers/shell/cmdsplitter.cc
+player-3.0.2/server/drivers/shell/readlog.cc
+player-3.0.2/server/drivers/shell/diocmd.cc
+player-3.0.2/server/drivers/shell/dummy.cc
+player-3.0.2/server/drivers/shell/passthrough.cc
+player-3.0.2/server/drivers/shell/relay.cc
+player-3.0.2/server/drivers/shell/CMakeLists.txt
+player-3.0.2/server/drivers/shell/suppressor.cc
+player-3.0.2/server/drivers/shell/readlog_time.h
+player-3.0.2/server/drivers/shell/kartowriter.cc
+player-3.0.2/server/drivers/shell/test/
+player-3.0.2/server/drivers/shell/test/test_passthrough_split2.cfg
+player-3.0.2/server/drivers/shell/test/test_passthrough.py
+player-3.0.2/server/drivers/shell/test/test_passthrough_split1.cfg
+player-3.0.2/server/drivers/shell/test/test_passthrough.cfg
+player-3.0.2/server/drivers/shell/.cvsignore
+player-3.0.2/server/drivers/shell/speechcmd.cc
+player-3.0.2/server/drivers/shell/logfile.h
+player-3.0.2/server/drivers/shell/writelog.cc
+player-3.0.2/server/drivers/shell/encode.cc
+player-3.0.2/server/drivers/shell/readlog_time.cc
+player-3.0.2/server/drivers/shell/encode.h
+player-3.0.2/server/drivers/shell/opaquecmd.cc
+player-3.0.2/server/drivers/position/
+player-3.0.2/server/drivers/position/blobposition/
+player-3.0.2/server/drivers/position/blobposition/CMakeLists.txt
+player-3.0.2/server/drivers/position/blobposition/blobposition.cc
+player-3.0.2/server/drivers/position/deadstop/
+player-3.0.2/server/drivers/position/deadstop/CMakeLists.txt
+player-3.0.2/server/drivers/position/deadstop/deadstop.cc
+player-3.0.2/server/drivers/position/isense/
+player-3.0.2/server/drivers/position/isense/CMakeLists.txt
+player-3.0.2/server/drivers/position/isense/.cvsignore
+player-3.0.2/server/drivers/position/isense/inertiacube2.cc
+player-3.0.2/server/drivers/position/segwayrmp400/
+player-3.0.2/server/drivers/position/segwayrmp400/CMakeLists.txt
+player-3.0.2/server/drivers/position/segwayrmp400/segwayrmp400.cc
+player-3.0.2/server/drivers/position/segwayrmp400/segwayrmp400.h
+player-3.0.2/server/drivers/position/roboteq/
+player-3.0.2/server/drivers/position/roboteq/roboteq.cc
+player-3.0.2/server/drivers/position/roboteq/CMakeLists.txt
+player-3.0.2/server/drivers/position/roboteq/.cvsignore
+player-3.0.2/server/drivers/position/CMakeLists.txt
+player-3.0.2/server/drivers/position/nav200/
+player-3.0.2/server/drivers/position/nav200/test_program_init.cpp
+player-3.0.2/server/drivers/position/nav200/nav200.h
+player-3.0.2/server/drivers/position/nav200/sicknav200.cc
+player-3.0.2/server/drivers/position/nav200/CMakeLists.txt
+player-3.0.2/server/drivers/position/nav200/test_program.cpp
+player-3.0.2/server/drivers/position/nav200/.cvsignore
+player-3.0.2/server/drivers/position/nav200/nav200.cc
+player-3.0.2/server/drivers/position/nav200/test.cpp
+player-3.0.2/server/drivers/position/globalize/
+player-3.0.2/server/drivers/position/globalize/globalize.cc
+player-3.0.2/server/drivers/position/globalize/CMakeLists.txt
+player-3.0.2/server/drivers/position/.cvsignore
+player-3.0.2/server/drivers/position/motionmind/
+player-3.0.2/server/drivers/position/motionmind/CMakeLists.txt
+player-3.0.2/server/drivers/position/motionmind/motionmind.cc
+player-3.0.2/server/drivers/position/ascension/
+player-3.0.2/server/drivers/position/ascension/CMakeLists.txt
+player-3.0.2/server/drivers/position/ascension/.cvsignore
+player-3.0.2/server/drivers/position/ascension/flockofbirds.cc
+player-3.0.2/server/drivers/position/bumpersafe/
+player-3.0.2/server/drivers/position/bumpersafe/CMakeLists.txt
+player-3.0.2/server/drivers/position/bumpersafe/.cvsignore
+player-3.0.2/server/drivers/position/bumpersafe/bumpersafe.cc
+player-3.0.2/server/drivers/position/microstrain/
+player-3.0.2/server/drivers/position/microstrain/CMakeLists.txt
+player-3.0.2/server/drivers/position/microstrain/.cvsignore
+player-3.0.2/server/drivers/position/microstrain/3dmg.cc
+player-3.0.2/server/drivers/position/nd/
+player-3.0.2/server/drivers/position/nd/geometria.h
+player-3.0.2/server/drivers/position/nd/nd2.h
+player-3.0.2/server/drivers/position/nd/CMakeLists.txt
+player-3.0.2/server/drivers/position/nd/geometria.cc
+player-3.0.2/server/drivers/position/nd/.cvsignore
+player-3.0.2/server/drivers/position/nd/nd_plugin.cc
+player-3.0.2/server/drivers/position/nd/nd.cc
+player-3.0.2/server/drivers/position/nd/nd.h
+player-3.0.2/server/drivers/position/vfh/
+player-3.0.2/server/drivers/position/vfh/vfh_algorithm.cc
+player-3.0.2/server/drivers/position/vfh/vfh_algorithm.h
+player-3.0.2/server/drivers/position/vfh/CMakeLists.txt
+player-3.0.2/server/drivers/position/vfh/.cvsignore
+player-3.0.2/server/drivers/position/vfh/vfh.cc
+player-3.0.2/server/drivers/position/lasersafe/
+player-3.0.2/server/drivers/position/lasersafe/CMakeLists.txt
+player-3.0.2/server/drivers/position/lasersafe/.cvsignore
+player-3.0.2/server/drivers/position/lasersafe/lasersafe.cc
+player-3.0.2/server/drivers/position/goto/
+player-3.0.2/server/drivers/position/goto/goto.cc
+player-3.0.2/server/drivers/position/goto/CMakeLists.txt
+player-3.0.2/server/drivers/position/snd/
+player-3.0.2/server/drivers/position/snd/CMakeLists.txt
+player-3.0.2/server/drivers/position/snd/gap_nd_nav.h
+player-3.0.2/server/drivers/position/snd/worlds/
+player-3.0.2/server/drivers/position/snd/worlds/snd.cfg
+player-3.0.2/server/drivers/position/snd/worlds/snd.world
+player-3.0.2/server/drivers/position/snd/snd.cc
+player-3.0.2/server/drivers/position/snd/dllist.h
+player-3.0.2/server/drivers/position/snd/README
+player-3.0.2/server/drivers/position/snd/snd.h
+player-3.0.2/server/drivers/position/snd/gap_nd_nav.cc
+player-3.0.2/server/drivers/position/snd/gap_and_valley.cc
+player-3.0.2/server/drivers/position/snd/gap_and_valley.h
+player-3.0.2/server/drivers/position/mbicp/
+player-3.0.2/server/drivers/position/mbicp/sp_matrix.c
+player-3.0.2/server/drivers/position/mbicp/percolate.c
+player-3.0.2/server/drivers/position/mbicp/mbicp_driver.cc
+player-3.0.2/server/drivers/position/mbicp/MbICP.h
+player-3.0.2/server/drivers/position/mbicp/calcul.c
+player-3.0.2/server/drivers/position/mbicp/sp_matrix.h
+player-3.0.2/server/drivers/position/mbicp/mbicp_aux.c
+player-3.0.2/server/drivers/position/mbicp/CMakeLists.txt
+player-3.0.2/server/drivers/position/mbicp/TData.h
+player-3.0.2/server/drivers/position/mbicp/calcul.h
+player-3.0.2/server/drivers/position/mbicp/.cvsignore
+player-3.0.2/server/drivers/position/mbicp/MbICP.c
+player-3.0.2/server/drivers/position/mbicp/MbICP2.h
+player-3.0.2/server/drivers/position/mbicp/percolate.h
+player-3.0.2/server/drivers/stereo/
+player-3.0.2/server/drivers/stereo/CMakeLists.txt
+player-3.0.2/server/drivers/stereo/stoc.cc
+player-3.0.2/server/drivers/mixed/
+player-3.0.2/server/drivers/mixed/swissranger/
+player-3.0.2/server/drivers/mixed/swissranger/swissranger.cc
+player-3.0.2/server/drivers/mixed/swissranger/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/cmucam2/
+player-3.0.2/server/drivers/mixed/cmucam2/camera.h
+player-3.0.2/server/drivers/mixed/cmucam2/cmucam2.cc
+player-3.0.2/server/drivers/mixed/cmucam2/camera.c
+player-3.0.2/server/drivers/mixed/cmucam2/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/cmucam2/.cvsignore
+player-3.0.2/server/drivers/mixed/rflex/
+player-3.0.2/server/drivers/mixed/rflex/rflex-protocol.txt
+player-3.0.2/server/drivers/mixed/rflex/rflex.h
+player-3.0.2/server/drivers/mixed/rflex/rflex-info.h
+player-3.0.2/server/drivers/mixed/rflex/rflex_commands.h
+player-3.0.2/server/drivers/mixed/rflex/rflex_commands.cc
+player-3.0.2/server/drivers/mixed/rflex/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/rflex/rflex_configs.h
+player-3.0.2/server/drivers/mixed/rflex/rflex-io.h
+player-3.0.2/server/drivers/mixed/rflex/rflex-io.cc
+player-3.0.2/server/drivers/mixed/rflex/.cvsignore
+player-3.0.2/server/drivers/mixed/rflex/HOWTO_USE
+player-3.0.2/server/drivers/mixed/rflex/rflex.cc
+player-3.0.2/server/drivers/mixed/clodbuster/
+player-3.0.2/server/drivers/mixed/clodbuster/packet.h
+player-3.0.2/server/drivers/mixed/clodbuster/packet.cc
+player-3.0.2/server/drivers/mixed/clodbuster/clodbuster.cc
+player-3.0.2/server/drivers/mixed/clodbuster/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/clodbuster/clodbuster.h
+player-3.0.2/server/drivers/mixed/clodbuster/.cvsignore
+player-3.0.2/server/drivers/mixed/p2os/
+player-3.0.2/server/drivers/mixed/p2os/packet.h
+player-3.0.2/server/drivers/mixed/p2os/packet.cc
+player-3.0.2/server/drivers/mixed/p2os/robot_params.h
+player-3.0.2/server/drivers/mixed/p2os/p2os.cc
+player-3.0.2/server/drivers/mixed/p2os/sip.cc
+player-3.0.2/server/drivers/mixed/p2os/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/p2os/sip.h
+player-3.0.2/server/drivers/mixed/p2os/kinecalc.h
+player-3.0.2/server/drivers/mixed/p2os/kinecalc.cc
+player-3.0.2/server/drivers/mixed/p2os/.cvsignore
+player-3.0.2/server/drivers/mixed/p2os/p2os.h
+player-3.0.2/server/drivers/mixed/p2os/robot_params.cc
+player-3.0.2/server/drivers/mixed/khepera/
+player-3.0.2/server/drivers/mixed/khepera/khepera_serial.cc
+player-3.0.2/server/drivers/mixed/khepera/khepera_serial.h
+player-3.0.2/server/drivers/mixed/khepera/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/khepera/.cvsignore
+player-3.0.2/server/drivers/mixed/khepera/khepera.cc
+player-3.0.2/server/drivers/mixed/khepera/khepera.h
+player-3.0.2/server/drivers/mixed/garcia/
+player-3.0.2/server/drivers/mixed/garcia/garcia_mixed.cc
+player-3.0.2/server/drivers/mixed/garcia/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/garcia/garcia_mixed.h
+player-3.0.2/server/drivers/mixed/garcia/.cvsignore
+player-3.0.2/server/drivers/mixed/wbr/
+player-3.0.2/server/drivers/mixed/wbr/914/
+player-3.0.2/server/drivers/mixed/wbr/914/wbr914.h
+player-3.0.2/server/drivers/mixed/wbr/914/wbr914.cc
+player-3.0.2/server/drivers/mixed/wbr/914/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/wbr/914/.cvsignore
+player-3.0.2/server/drivers/mixed/wbr/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/wbr/.cvsignore
+player-3.0.2/server/drivers/mixed/epuck/
+player-3.0.2/server/drivers/mixed/epuck/timer.hpp
+player-3.0.2/server/drivers/mixed/epuck/epuckPosition2d.hpp
+player-3.0.2/server/drivers/mixed/epuck/epuckLEDs.hpp
+player-3.0.2/server/drivers/mixed/epuck/epuckInterface.hpp
+player-3.0.2/server/drivers/mixed/epuck/epuckLEDs.cpp
+player-3.0.2/server/drivers/mixed/epuck/epuckDriver.hpp
+player-3.0.2/server/drivers/mixed/epuck/epuckIR.hpp
+player-3.0.2/server/drivers/mixed/epuck/epuckPosition2d.cpp
+player-3.0.2/server/drivers/mixed/epuck/serialPort.hpp
+player-3.0.2/server/drivers/mixed/epuck/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/epuck/epuckIR.cpp
+player-3.0.2/server/drivers/mixed/epuck/doc/
+player-3.0.2/server/drivers/mixed/epuck/doc/examples.dox
+player-3.0.2/server/drivers/mixed/epuck/doc/player_2_1/
+player-3.0.2/server/drivers/mixed/epuck/doc/player_2_1/ir.c
+player-3.0.2/server/drivers/mixed/epuck/doc/player_2_1/epuck.cfg
+player-3.0.2/server/drivers/mixed/epuck/doc/player_2_1/camera.c
+player-3.0.2/server/drivers/mixed/epuck/doc/player_2_1/Makefile
+player-3.0.2/server/drivers/mixed/epuck/doc/player_2_1/blinkenlight.c
+player-3.0.2/server/drivers/mixed/epuck/doc/player_2_1/position2d.c
+player-3.0.2/server/drivers/mixed/epuck/doc/camera_config.dox
+player-3.0.2/server/drivers/mixed/epuck/doc/player2_0.dox
+player-3.0.2/server/drivers/mixed/epuck/doc/main_page.dox
+player-3.0.2/server/drivers/mixed/epuck/doc/player2_1.dox
+player-3.0.2/server/drivers/mixed/epuck/epuckCamera.hpp
+player-3.0.2/server/drivers/mixed/epuck/README
+player-3.0.2/server/drivers/mixed/epuck/epuckInterface.cpp
+player-3.0.2/server/drivers/mixed/epuck/epuckCamera.cpp
+player-3.0.2/server/drivers/mixed/epuck/serialPort.cpp
+player-3.0.2/server/drivers/mixed/epuck/epuckDriver.cpp
+player-3.0.2/server/drivers/mixed/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/irobot/
+player-3.0.2/server/drivers/mixed/irobot/create/
+player-3.0.2/server/drivers/mixed/irobot/create/create_comms.h
+player-3.0.2/server/drivers/mixed/irobot/create/create_comms.c
+player-3.0.2/server/drivers/mixed/irobot/create/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/irobot/create/.cvsignore
+player-3.0.2/server/drivers/mixed/irobot/create/create_driver.cc
+player-3.0.2/server/drivers/mixed/irobot/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/irobot/roomba/
+player-3.0.2/server/drivers/mixed/irobot/roomba/roomba_comms.c
+player-3.0.2/server/drivers/mixed/irobot/roomba/roomba_comms.h
+player-3.0.2/server/drivers/mixed/irobot/roomba/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/irobot/roomba/.cvsignore
+player-3.0.2/server/drivers/mixed/irobot/roomba/roomba_driver.cc
+player-3.0.2/server/drivers/mixed/irobot/roomba/test.c
+player-3.0.2/server/drivers/mixed/irobot/.cvsignore
+player-3.0.2/server/drivers/mixed/robotino/
+player-3.0.2/server/drivers/mixed/robotino/robotino_driver.cc
+player-3.0.2/server/drivers/mixed/robotino/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/robotino/.cvsignore
+player-3.0.2/server/drivers/mixed/evolution/
+player-3.0.2/server/drivers/mixed/evolution/er1/
+player-3.0.2/server/drivers/mixed/evolution/er1/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/evolution/er1/er.cc
+player-3.0.2/server/drivers/mixed/evolution/er1/.cvsignore
+player-3.0.2/server/drivers/mixed/evolution/er1/er.h
+player-3.0.2/server/drivers/mixed/evolution/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/evolution/.cvsignore
+player-3.0.2/server/drivers/mixed/.cvsignore
+player-3.0.2/server/drivers/mixed/phidgetIFK/
+player-3.0.2/server/drivers/mixed/phidgetIFK/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/phidgetIFK/.cvsignore
+player-3.0.2/server/drivers/mixed/phidgetIFK/phidgetIFK.cc
+player-3.0.2/server/drivers/mixed/botrics/
+player-3.0.2/server/drivers/mixed/botrics/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/botrics/.cvsignore
+player-3.0.2/server/drivers/mixed/botrics/obot.cc
+player-3.0.2/server/drivers/mixed/botrics/obot_constants.h
+player-3.0.2/server/drivers/mixed/erratic/
+player-3.0.2/server/drivers/mixed/erratic/motorpacket.h
+player-3.0.2/server/drivers/mixed/erratic/packet.h
+player-3.0.2/server/drivers/mixed/erratic/packet.cc
+player-3.0.2/server/drivers/mixed/erratic/robot_params.h
+player-3.0.2/server/drivers/mixed/erratic/sip.cc
+player-3.0.2/server/drivers/mixed/erratic/motorpacket.cc
+player-3.0.2/server/drivers/mixed/erratic/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/erratic/sip.h
+player-3.0.2/server/drivers/mixed/erratic/erratic.cc
+player-3.0.2/server/drivers/mixed/erratic/erratic.h
+player-3.0.2/server/drivers/mixed/erratic/.cvsignore
+player-3.0.2/server/drivers/mixed/erratic/robot_params.cc
+player-3.0.2/server/drivers/mixed/reb/
+player-3.0.2/server/drivers/mixed/reb/reb.cc
+player-3.0.2/server/drivers/mixed/reb/reb.h
+player-3.0.2/server/drivers/mixed/reb/reb_params.h
+player-3.0.2/server/drivers/mixed/reb/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/reb/reb_params.cc
+player-3.0.2/server/drivers/mixed/reb/.cvsignore
+player-3.0.2/server/drivers/mixed/rmp/
+player-3.0.2/server/drivers/mixed/rmp/rmp_frame.h
+player-3.0.2/server/drivers/mixed/rmp/segwayrmp.h
+player-3.0.2/server/drivers/mixed/rmp/segwayrmp.cc
+player-3.0.2/server/drivers/mixed/rmp/usb_packet.h
+player-3.0.2/server/drivers/mixed/rmp/canio_kvaser.cc
+player-3.0.2/server/drivers/mixed/rmp/canio_kvaser.h
+player-3.0.2/server/drivers/mixed/rmp/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/rmp/.cvsignore
+player-3.0.2/server/drivers/mixed/rmp/usb_packet.cc
+player-3.0.2/server/drivers/mixed/rmp/canio.h
+player-3.0.2/server/drivers/mixed/nomad/
+player-3.0.2/server/drivers/mixed/nomad/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/nomad/Nclient.c
+player-3.0.2/server/drivers/mixed/nomad/.cvsignore
+player-3.0.2/server/drivers/mixed/nomad/Nclient.h
+player-3.0.2/server/drivers/mixed/nomad/nomad.cc
+player-3.0.2/server/drivers/mixed/mricp/
+player-3.0.2/server/drivers/mixed/mricp/stage_test/
+player-3.0.2/server/drivers/mixed/mricp/stage_test/rescue.world
+player-3.0.2/server/drivers/mixed/mricp/stage_test/casarea.jpeg
+player-3.0.2/server/drivers/mixed/mricp/stage_test/homer.inc
+player-3.0.2/server/drivers/mixed/mricp/stage_test/wheelchair.inc
+player-3.0.2/server/drivers/mixed/mricp/stage_test/map.inc
+player-3.0.2/server/drivers/mixed/mricp/stage_test/stage_mricp.cfg
+player-3.0.2/server/drivers/mixed/mricp/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/mricp/doc/
+player-3.0.2/server/drivers/mixed/mricp/doc/html/
+player-3.0.2/server/drivers/mixed/mricp/doc/html/doxygen.png
+player-3.0.2/server/drivers/mixed/mricp/doc/html/geometry2D_8h-source.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/lasermodel_8h-source.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/hierarchy.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/tabs.css
+player-3.0.2/server/drivers/mixed/mricp/doc/html/nn_8h-source.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/files.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/index.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/group__MRICP.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/gui_8h-source.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/Timer_8h-source.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/group__drivers.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/structlaser__range-members.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/icp_8h-source.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/tab_r.gif
+player-3.0.2/server/drivers/mixed/mricp/doc/html/structlaser__range.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/tab_l.gif
+player-3.0.2/server/drivers/mixed/mricp/doc/html/tab_b.gif
+player-3.0.2/server/drivers/mixed/mricp/doc/html/annotated.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/map_8h-source.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/modules.html
+player-3.0.2/server/drivers/mixed/mricp/doc/html/doxygen.css
+player-3.0.2/server/drivers/mixed/mricp/.cvsignore
+player-3.0.2/server/drivers/mixed/mricp/README
+player-3.0.2/server/drivers/mixed/mricp/src/
+player-3.0.2/server/drivers/mixed/mricp/src/Timer.cpp
+player-3.0.2/server/drivers/mixed/mricp/src/geometry2D.cpp
+player-3.0.2/server/drivers/mixed/mricp/src/lasermodel.cpp
+player-3.0.2/server/drivers/mixed/mricp/src/map.cpp
+player-3.0.2/server/drivers/mixed/mricp/src/nn.cpp
+player-3.0.2/server/drivers/mixed/mricp/src/mricp_driver.cpp
+player-3.0.2/server/drivers/mixed/mricp/src/icp.cpp
+player-3.0.2/server/drivers/mixed/mricp/include/
+player-3.0.2/server/drivers/mixed/mricp/include/icp.h
+player-3.0.2/server/drivers/mixed/mricp/include/geometry2D.h
+player-3.0.2/server/drivers/mixed/mricp/include/map.h
+player-3.0.2/server/drivers/mixed/mricp/include/nn.h
+player-3.0.2/server/drivers/mixed/mricp/include/lasermodel.h
+player-3.0.2/server/drivers/mixed/mricp/include/Timer.h
+player-3.0.2/server/drivers/mixed/mricp/doxy.Doxyfile
+player-3.0.2/server/drivers/mixed/sr3000/
+player-3.0.2/server/drivers/mixed/sr3000/CMakeLists.txt
+player-3.0.2/server/drivers/mixed/sr3000/.cvsignore
+player-3.0.2/server/drivers/mixed/sr3000/sr3000.cc
+player-3.0.2/server/drivers/blackboard/
+player-3.0.2/server/drivers/blackboard/localbb/
+player-3.0.2/server/drivers/blackboard/localbb/test.cfg
+player-3.0.2/server/drivers/blackboard/localbb/CMakeLists.txt
+player-3.0.2/server/drivers/blackboard/localbb/localbb.cpp
+player-3.0.2/server/drivers/blackboard/localbb/.cvsignore
+player-3.0.2/server/drivers/blackboard/localbb/test.cpp
+player-3.0.2/server/drivers/blackboard/CMakeLists.txt
+player-3.0.2/server/drivers/blackboard/.cvsignore
+player-3.0.2/server/drivers/rfid/
+player-3.0.2/server/drivers/rfid/insideM300.cc
+player-3.0.2/server/drivers/rfid/phidgetRFID.cc
+player-3.0.2/server/drivers/rfid/sickrfi341.cc
+player-3.0.2/server/drivers/rfid/CMakeLists.txt
+player-3.0.2/server/drivers/rfid/rfi341_protocol.h
+player-3.0.2/server/drivers/rfid/skyetekM1.cc
+player-3.0.2/server/drivers/rfid/.cvsignore
+player-3.0.2/server/drivers/rfid/acr120u.cc
+player-3.0.2/server/drivers/rfid/rfi341_protocol.cc
+player-3.0.2/server/drivers/vectormap/
+player-3.0.2/server/drivers/vectormap/dbconn.cc
+player-3.0.2/server/drivers/vectormap/robotracker.cc
+player-3.0.2/server/drivers/vectormap/dbconn.h
+player-3.0.2/server/drivers/vectormap/CMakeLists.txt
+player-3.0.2/server/drivers/vectormap/postgis.cc
+player-3.0.2/server/drivers/vectormap/.cvsignore
+player-3.0.2/server/drivers/vectormap/vec2map.cc
+player-3.0.2/server/drivers/wsn/
+player-3.0.2/server/drivers/wsn/mica2.cc
+player-3.0.2/server/drivers/wsn/CMakeLists.txt
+player-3.0.2/server/drivers/wsn/rcore_xbridge.h
+player-3.0.2/server/drivers/wsn/rcore_xbridge.cc
+player-3.0.2/server/drivers/wsn/.cvsignore
+player-3.0.2/server/drivers/wsn/mica2.h
+player-3.0.2/server/drivers/wsn/phidgetAcc.cc
+player-3.0.2/server/drivers/wsn/accel_calib.cc
+player-3.0.2/server/drivers/waveform/
+player-3.0.2/server/drivers/waveform/.cvsignore
+player-3.0.2/server/drivers/imu/
+player-3.0.2/server/drivers/imu/nimuplayer.cpp
+player-3.0.2/server/drivers/imu/CMakeLists.txt
+player-3.0.2/server/drivers/imu/.cvsignore
+player-3.0.2/server/drivers/imu/xsens/
+player-3.0.2/server/drivers/imu/xsens/CMakeLists.txt
+player-3.0.2/server/drivers/imu/xsens/XSensMT.cc
+player-3.0.2/server/drivers/imu/nimu.cpp
+player-3.0.2/server/drivers/imu/nimu.h
+player-3.0.2/server/drivers/sonar/
+player-3.0.2/server/drivers/sonar/aiotosonar.cc
+player-3.0.2/server/drivers/sonar/CMakeLists.txt
+player-3.0.2/server/drivers/dio/
+player-3.0.2/server/drivers/dio/rangertodio/
+player-3.0.2/server/drivers/dio/rangertodio/CMakeLists.txt
+player-3.0.2/server/drivers/dio/rangertodio/rangertodio.cc
+player-3.0.2/server/drivers/dio/blobtracker/
+player-3.0.2/server/drivers/dio/blobtracker/CMakeLists.txt
+player-3.0.2/server/drivers/dio/blobtracker/blobtracker.cc
+player-3.0.2/server/drivers/dio/diolatch/
+player-3.0.2/server/drivers/dio/diolatch/diolatch.cc
+player-3.0.2/server/drivers/dio/diolatch/CMakeLists.txt
+player-3.0.2/server/drivers/dio/diodelay/
+player-3.0.2/server/drivers/dio/diodelay/diodelay.cc
+player-3.0.2/server/drivers/dio/diodelay/CMakeLists.txt
+player-3.0.2/server/drivers/dio/CMakeLists.txt
+player-3.0.2/server/drivers/dio/blobtodio/
+player-3.0.2/server/drivers/dio/blobtodio/blobtodio.cc
+player-3.0.2/server/drivers/dio/blobtodio/CMakeLists.txt
+player-3.0.2/server/drivers/dio/stalltodio/
+player-3.0.2/server/drivers/dio/stalltodio/stalltodio.cc
+player-3.0.2/server/drivers/dio/stalltodio/CMakeLists.txt
+player-3.0.2/server/drivers/dio/serio/
+player-3.0.2/server/drivers/dio/serio/serio.cc
+player-3.0.2/server/drivers/dio/serio/CMakeLists.txt
+player-3.0.2/server/drivers/dio/portio/
+player-3.0.2/server/drivers/dio/portio/CMakeLists.txt
+player-3.0.2/server/drivers/dio/portio/portio.cc
+player-3.0.2/server/drivers/dio/bumpertodio/
+player-3.0.2/server/drivers/dio/bumpertodio/bumpertodio.cc
+player-3.0.2/server/drivers/dio/bumpertodio/CMakeLists.txt
+player-3.0.2/server/drivers/dio/bitlogic/
+player-3.0.2/server/drivers/dio/bitlogic/bitlogic.cc
+player-3.0.2/server/drivers/dio/bitlogic/CMakeLists.txt
+player-3.0.2/server/drivers/CMakeLists.txt
+player-3.0.2/server/drivers/actarray/
+player-3.0.2/server/drivers/actarray/CMakeLists.txt
+player-3.0.2/server/drivers/actarray/.cvsignore
+player-3.0.2/server/drivers/actarray/amtecM5.cc
+player-3.0.2/server/drivers/laser/
+player-3.0.2/server/drivers/laser/laserposeinterpolator.cc
+player-3.0.2/server/drivers/laser/laser_config.h.in
+player-3.0.2/server/drivers/laser/lasercspace-1.jpg
+player-3.0.2/server/drivers/laser/RS4LeuzeLaserDriver.cc
+player-3.0.2/server/drivers/laser/sicks3000.cc
+player-3.0.2/server/drivers/laser/lasercutter.cc
+player-3.0.2/server/drivers/laser/CMakeLists.txt
+player-3.0.2/server/drivers/laser/lms400_cola.h
+player-3.0.2/server/drivers/laser/lasertransform.h
+player-3.0.2/server/drivers/laser/lasercspace.cc
+player-3.0.2/server/drivers/laser/lasertransform.cc
+player-3.0.2/server/drivers/laser/RS4Leuze_laser.cc
+player-3.0.2/server/drivers/laser/laserrescan.cc
+player-3.0.2/server/drivers/laser/lms400_cola.cc
+player-3.0.2/server/drivers/laser/.cvsignore
+player-3.0.2/server/drivers/laser/sicklms400.cc
+player-3.0.2/server/drivers/laser/lasercspace-2.jpg
+player-3.0.2/server/drivers/laser/RS4Leuze_laser.h
+player-3.0.2/server/drivers/laser/pbs_driver.cc
+player-3.0.2/server/drivers/laser/bumper2laser.cc
+player-3.0.2/server/drivers/laser/sicklms200.cc
+player-3.0.2/server/drivers/laser/sickLDMRS.cc
+player-3.0.2/server/drivers/camera/
+player-3.0.2/server/drivers/camera/imgsave/
+player-3.0.2/server/drivers/camera/imgsave/videofont.h
+player-3.0.2/server/drivers/camera/imgsave/CMakeLists.txt
+player-3.0.2/server/drivers/camera/imgsave/imgsave.cc
+player-3.0.2/server/drivers/camera/v4l/
+player-3.0.2/server/drivers/camera/v4l/ccvt_c1.c
+player-3.0.2/server/drivers/camera/v4l/v4lframe.c
+player-3.0.2/server/drivers/camera/v4l/CMakeLists.txt
+player-3.0.2/server/drivers/camera/v4l/v4lcapture.h
+player-3.0.2/server/drivers/camera/v4l/.cvsignore
+player-3.0.2/server/drivers/camera/v4l/camerav4l.cc
+player-3.0.2/server/drivers/camera/v4l/v4lframe.h
+player-3.0.2/server/drivers/camera/v4l/v4lcapture.c
+player-3.0.2/server/drivers/camera/v4l/ccvt.h
+player-3.0.2/server/drivers/camera/imgcmp/
+player-3.0.2/server/drivers/camera/imgcmp/CMakeLists.txt
+player-3.0.2/server/drivers/camera/imgcmp/imgcmp.cc
+player-3.0.2/server/drivers/camera/v4l2/
+player-3.0.2/server/drivers/camera/v4l2/bayer.h
+player-3.0.2/server/drivers/camera/v4l2/v4l2.c
+player-3.0.2/server/drivers/camera/v4l2/CMakeLists.txt
+player-3.0.2/server/drivers/camera/v4l2/camerav4l2.cc
+player-3.0.2/server/drivers/camera/v4l2/v4l2.h
+player-3.0.2/server/drivers/camera/v4l2/bayer.c
+player-3.0.2/server/drivers/camera/uvc/
+player-3.0.2/server/drivers/camera/uvc/CMakeLists.txt
+player-3.0.2/server/drivers/camera/uvc/cameraUVC.cc
+player-3.0.2/server/drivers/camera/uvc/LICENSE
+player-3.0.2/server/drivers/camera/uvc/.cvsignore
+player-3.0.2/server/drivers/camera/uvc/README
+player-3.0.2/server/drivers/camera/uvc/cameraUVC.h
+player-3.0.2/server/drivers/camera/uvc/UvcInterface.cc
+player-3.0.2/server/drivers/camera/uvc/UvcInterface.h
+player-3.0.2/server/drivers/camera/CMakeLists.txt
+player-3.0.2/server/drivers/camera/videocanny/
+player-3.0.2/server/drivers/camera/videocanny/videocanny.cc
+player-3.0.2/server/drivers/camera/videocanny/CMakeLists.txt
+player-3.0.2/server/drivers/camera/gstreamer/
+player-3.0.2/server/drivers/camera/gstreamer/gstappsink.h
+player-3.0.2/server/drivers/camera/gstreamer/CMakeLists.txt
+player-3.0.2/server/drivers/camera/gstreamer/gstappsink.c
+player-3.0.2/server/drivers/camera/gstreamer/cameragst.cc
+player-3.0.2/server/drivers/camera/compress/
+player-3.0.2/server/drivers/camera/compress/CMakeLists.txt
+player-3.0.2/server/drivers/camera/compress/.cvsignore
+player-3.0.2/server/drivers/camera/compress/camerauncompress.cc
+player-3.0.2/server/drivers/camera/compress/cameracompress.cc
+player-3.0.2/server/drivers/camera/unicap/
+player-3.0.2/server/drivers/camera/unicap/unicapImage.cc
+player-3.0.2/server/drivers/camera/unicap/CMakeLists.txt
+player-3.0.2/server/drivers/camera/yarp/
+player-3.0.2/server/drivers/camera/yarp/CMakeLists.txt
+player-3.0.2/server/drivers/camera/yarp/.cvsignore
+player-3.0.2/server/drivers/camera/yarp/YarpImage.cc
+player-3.0.2/server/drivers/camera/1394/
+player-3.0.2/server/drivers/camera/1394/camera1394.h.in
+player-3.0.2/server/drivers/camera/1394/camera1394.cc
+player-3.0.2/server/drivers/camera/1394/CMakeLists.txt
+player-3.0.2/server/drivers/camera/1394/.cvsignore
+player-3.0.2/server/drivers/camera/.cvsignore
+player-3.0.2/server/drivers/camera/imageseq/
+player-3.0.2/server/drivers/camera/imageseq/CMakeLists.txt
+player-3.0.2/server/drivers/camera/imageseq/.cvsignore
+player-3.0.2/server/drivers/camera/imageseq/imageseq.cc
+player-3.0.2/server/drivers/camera/camfilter/
+player-3.0.2/server/drivers/camera/camfilter/camfilter.cc
+player-3.0.2/server/drivers/camera/camfilter/CMakeLists.txt
+player-3.0.2/server/drivers/camera/sphere/
+player-3.0.2/server/drivers/camera/sphere/sphere_mixed.h
+player-3.0.2/server/drivers/camera/sphere/CMakeLists.txt
+player-3.0.2/server/drivers/camera/sphere/setpwc_api.c
+player-3.0.2/server/drivers/camera/sphere/pwc-ioctl.h
+player-3.0.2/server/drivers/camera/sphere/setpwc_api.h
+player-3.0.2/server/drivers/camera/sphere/.cvsignore
+player-3.0.2/server/drivers/camera/sphere/sphere_mixed.cc
+player-3.0.2/server/drivers/camera/cvcam/
+player-3.0.2/server/drivers/camera/cvcam/cvcam.cc
+player-3.0.2/server/drivers/camera/cvcam/CMakeLists.txt
+player-3.0.2/server/drivers/audiodsp/
+player-3.0.2/server/drivers/audiodsp/.cvsignore
+player-3.0.2/server/drivers/.cvsignore
+player-3.0.2/server/drivers/map/
+player-3.0.2/server/drivers/map/maptransform.cc
+player-3.0.2/server/drivers/map/gridmap.h
+player-3.0.2/server/drivers/map/maptransform.h
+player-3.0.2/server/drivers/map/mapscale.cc
+player-3.0.2/server/drivers/map/CMakeLists.txt
+player-3.0.2/server/drivers/map/mapfile.cc
+player-3.0.2/server/drivers/map/vmapfile.cc
+player-3.0.2/server/drivers/map/mapcspace.cc
+player-3.0.2/server/drivers/map/.cvsignore
+player-3.0.2/server/drivers/map/gridmap.cc
+player-3.0.2/server/drivers/speech/
+player-3.0.2/server/drivers/speech/festival.cc
+player-3.0.2/server/drivers/speech/CMakeLists.txt
+player-3.0.2/server/drivers/speech/.cvsignore
+player-3.0.2/server/drivers/speech/recognition/
+player-3.0.2/server/drivers/speech/recognition/sphinx2.cc
+player-3.0.2/server/drivers/speech/recognition/s2types.h
+player-3.0.2/server/drivers/speech/recognition/CMakeLists.txt
+player-3.0.2/server/drivers/speech/recognition/.cvsignore
+player-3.0.2/server/drivers/health/
+player-3.0.2/server/drivers/health/CMakeLists.txt
+player-3.0.2/server/drivers/health/statgrab/
+player-3.0.2/server/drivers/health/statgrab/statgrab_health.cpp
+player-3.0.2/server/drivers/health/statgrab/CMakeLists.txt
+player-3.0.2/server/drivers/health/statgrab/statgrab_health.h
+player-3.0.2/server/drivers/health/statgrab/.cvsignore
+player-3.0.2/server/drivers/health/.cvsignore
+player-3.0.2/server/drivers/planner/
+player-3.0.2/server/drivers/planner/CMakeLists.txt
+player-3.0.2/server/drivers/planner/.cvsignore
+player-3.0.2/server/drivers/planner/wavefront/
+player-3.0.2/server/drivers/planner/wavefront/heap.c
+player-3.0.2/server/drivers/planner/wavefront/plan_waypoint.c
+player-3.0.2/server/drivers/planner/wavefront/plan.h
+player-3.0.2/server/drivers/planner/wavefront/CMakeLists.txt
+player-3.0.2/server/drivers/planner/wavefront/heap.h
+player-3.0.2/server/drivers/planner/wavefront/wavefront.cc
+player-3.0.2/server/drivers/planner/wavefront/test/
+player-3.0.2/server/drivers/planner/wavefront/test/CMakeLists.txt
+player-3.0.2/server/drivers/planner/wavefront/plan.c
+player-3.0.2/server/drivers/planner/wavefront/.cvsignore
+player-3.0.2/server/drivers/planner/wavefront/plan_control.c
+player-3.0.2/server/drivers/planner/wavefront/test.c
+player-3.0.2/server/drivers/planner/wavefront/plan_plan.c
+player-3.0.2/server/drivers/joystick/
+player-3.0.2/server/drivers/joystick/linuxjoy.cc
+player-3.0.2/server/drivers/joystick/CMakeLists.txt
+player-3.0.2/server/drivers/joystick/.cvsignore
+player-3.0.2/server/drivers/localization/
+player-3.0.2/server/drivers/localization/amcl/
+player-3.0.2/server/drivers/localization/amcl/amcl-phe200-1200.jpg
+player-3.0.2/server/drivers/localization/amcl/models/
+player-3.0.2/server/drivers/localization/amcl/models/laser.h
+player-3.0.2/server/drivers/localization/amcl/models/odometry.h
+player-3.0.2/server/drivers/localization/amcl/models/laser.c
+player-3.0.2/server/drivers/localization/amcl/models/sonar.h
+player-3.0.2/server/drivers/localization/amcl/models/gps.c
+player-3.0.2/server/drivers/localization/amcl/models/gps.h
+player-3.0.2/server/drivers/localization/amcl/models/imu.h
+player-3.0.2/server/drivers/localization/amcl/models/imu.c
+player-3.0.2/server/drivers/localization/amcl/models/sonar.c
+player-3.0.2/server/drivers/localization/amcl/models/.cvsignore
+player-3.0.2/server/drivers/localization/amcl/models/wifi.h
+player-3.0.2/server/drivers/localization/amcl/models/odometry.c
+player-3.0.2/server/drivers/localization/amcl/models/wifi.c
+player-3.0.2/server/drivers/localization/amcl/amcl_fiducial.h
+player-3.0.2/server/drivers/localization/amcl/amcl_laser.cc
+player-3.0.2/server/drivers/localization/amcl/amcl_odom.cc
+player-3.0.2/server/drivers/localization/amcl/amcl-phe200-0010.jpg
+player-3.0.2/server/drivers/localization/amcl/amcl_gps.cc
+player-3.0.2/server/drivers/localization/amcl/amcl_sensor.h
+player-3.0.2/server/drivers/localization/amcl/amcl_gps.h
+player-3.0.2/server/drivers/localization/amcl/amcl_imu.cc
+player-3.0.2/server/drivers/localization/amcl/pf/
+player-3.0.2/server/drivers/localization/amcl/pf/pf.c
+player-3.0.2/server/drivers/localization/amcl/pf/pf_draw.c
+player-3.0.2/server/drivers/localization/amcl/pf/pf_pdf.c
+player-3.0.2/server/drivers/localization/amcl/pf/pf_vector.c
+player-3.0.2/server/drivers/localization/amcl/pf/pf_kdtree.c
+player-3.0.2/server/drivers/localization/amcl/pf/eig3.h
+player-3.0.2/server/drivers/localization/amcl/pf/pf_kdtree.h
+player-3.0.2/server/drivers/localization/amcl/pf/pf.h
+player-3.0.2/server/drivers/localization/amcl/pf/.cvsignore
+player-3.0.2/server/drivers/localization/amcl/pf/pf_pdf.h
+player-3.0.2/server/drivers/localization/amcl/pf/eig3.c
+player-3.0.2/server/drivers/localization/amcl/pf/pf_vector.h
+player-3.0.2/server/drivers/localization/amcl/CMakeLists.txt
+player-3.0.2/server/drivers/localization/amcl/amcl_wifi.cc
+player-3.0.2/server/drivers/localization/amcl/amcl-phe200-0800.jpg
+player-3.0.2/server/drivers/localization/amcl/amcl_sensor.cc
+player-3.0.2/server/drivers/localization/amcl/amcl.h
+player-3.0.2/server/drivers/localization/amcl/.cvsignore
+player-3.0.2/server/drivers/localization/amcl/map/
+player-3.0.2/server/drivers/localization/amcl/map/map_range.c
+player-3.0.2/server/drivers/localization/amcl/map/map.c
+player-3.0.2/server/drivers/localization/amcl/map/map_draw.c
+player-3.0.2/server/drivers/localization/amcl/map/map.h
+player-3.0.2/server/drivers/localization/amcl/map/.cvsignore
+player-3.0.2/server/drivers/localization/amcl/map/map_store.c
+player-3.0.2/server/drivers/localization/amcl/amcl_fiducial.cc
+player-3.0.2/server/drivers/localization/amcl/amcl_sonar.cc
+player-3.0.2/server/drivers/localization/amcl/amcl_odom.h
+player-3.0.2/server/drivers/localization/amcl/amcl.cc
+player-3.0.2/server/drivers/localization/amcl/amcl_imu.h
+player-3.0.2/server/drivers/localization/amcl/amcl_laser.h
+player-3.0.2/server/drivers/localization/amcl/amcl-phe200-0400.jpg
+player-3.0.2/server/drivers/localization/fakelocalize.cc
+player-3.0.2/server/drivers/localization/CMakeLists.txt
+player-3.0.2/server/drivers/localization/.cvsignore
+player-3.0.2/server/drivers/service_adv/
+player-3.0.2/server/drivers/service_adv/mdns.cc
+player-3.0.2/server/drivers/service_adv/CMakeLists.txt
+player-3.0.2/server/drivers/service_adv/.cvsignore
+player-3.0.2/server/drivers/blobfinder/
+player-3.0.2/server/drivers/blobfinder/cmvision/
+player-3.0.2/server/drivers/blobfinder/cmvision/conversions.h
+player-3.0.2/server/drivers/blobfinder/cmvision/colors2.txt
+player-3.0.2/server/drivers/blobfinder/cmvision/COPYING
+player-3.0.2/server/drivers/blobfinder/cmvision/P2CMV.cc
+player-3.0.2/server/drivers/blobfinder/cmvision/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/cmvision/conversions.c
+player-3.0.2/server/drivers/blobfinder/cmvision/Readme.CMVision
+player-3.0.2/server/drivers/blobfinder/cmvision/.cvsignore
+player-3.0.2/server/drivers/blobfinder/cmvision/colors.txt
+player-3.0.2/server/drivers/blobfinder/cmvision/cmvision.h
+player-3.0.2/server/drivers/blobfinder/cmvision/COPYING.LIB
+player-3.0.2/server/drivers/blobfinder/cmvision/cmvision.cc
+player-3.0.2/server/drivers/blobfinder/searchpattern/
+player-3.0.2/server/drivers/blobfinder/searchpattern/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/searchpattern/searchpattern.cc
+player-3.0.2/server/drivers/blobfinder/shapetracker/
+player-3.0.2/server/drivers/blobfinder/shapetracker/orientation.h
+player-3.0.2/server/drivers/blobfinder/shapetracker/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/shapetracker/shapetracker.cc
+player-3.0.2/server/drivers/blobfinder/shapetracker/.cvsignore
+player-3.0.2/server/drivers/blobfinder/shapetracker/orientation.c
+player-3.0.2/server/drivers/blobfinder/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/artoolkitplus/
+player-3.0.2/server/drivers/blobfinder/artoolkitplus/artoolkitplus.cc
+player-3.0.2/server/drivers/blobfinder/artoolkitplus/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/artoolkitplus/.cvsignore
+player-3.0.2/server/drivers/blobfinder/acts/
+player-3.0.2/server/drivers/blobfinder/acts/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/acts/acts.cc
+player-3.0.2/server/drivers/blobfinder/acts/.cvsignore
+player-3.0.2/server/drivers/blobfinder/.cvsignore
+player-3.0.2/server/drivers/blobfinder/upcbarcode/
+player-3.0.2/server/drivers/blobfinder/upcbarcode/upcbarcode.cc
+player-3.0.2/server/drivers/blobfinder/upcbarcode/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/upcbarcode/.cvsignore
+player-3.0.2/server/drivers/blobfinder/upcbarcode/upc.jpg
+player-3.0.2/server/drivers/blobfinder/simpleshape/
+player-3.0.2/server/drivers/blobfinder/simpleshape/simpleshape_output.gif
+player-3.0.2/server/drivers/blobfinder/simpleshape/simpleshape_h.gif
+player-3.0.2/server/drivers/blobfinder/simpleshape/CMakeLists.txt
+player-3.0.2/server/drivers/blobfinder/simpleshape/.cvsignore
+player-3.0.2/server/drivers/blobfinder/simpleshape/simpleshape.cc
+player-3.0.2/server/drivers/wifi/
+player-3.0.2/server/drivers/wifi/iwspy.cc
+player-3.0.2/server/drivers/wifi/aodv.cc
+player-3.0.2/server/drivers/wifi/linuxwifi.cc
+player-3.0.2/server/drivers/wifi/CMakeLists.txt
+player-3.0.2/server/drivers/wifi/.cvsignore
+player-3.0.2/server/drivers/ranger/
+player-3.0.2/server/drivers/ranger/sonartoranger.cc
+player-3.0.2/server/drivers/ranger/fromranger.cc
+player-3.0.2/server/drivers/ranger/toranger.cc
+player-3.0.2/server/drivers/ranger/rangerposeinterpolator.cc
+player-3.0.2/server/drivers/ranger/rangertolaser.cc
+player-3.0.2/server/drivers/ranger/toranger.h
+player-3.0.2/server/drivers/ranger/CMakeLists.txt
+player-3.0.2/server/drivers/ranger/fromranger.h
+player-3.0.2/server/drivers/ranger/.cvsignore
+player-3.0.2/server/drivers/ranger/gbxsickacfr.cc
+player-3.0.2/server/drivers/ranger/lasertoranger.cc
+player-3.0.2/server/drivers/ranger/hokuyo_aist.logw
+player-3.0.2/server/drivers/ranger/hokuyo_aist.cc
+player-3.0.2/server/drivers/ranger/hokuyo_aist.logr
+player-3.0.2/server/drivers/base/
+player-3.0.2/server/drivers/base/imagebase.cc
+player-3.0.2/server/drivers/base/imagebase.h
+player-3.0.2/server/drivers/base/CMakeLists.txt
+player-3.0.2/server/drivers/base/.cvsignore
+player-3.0.2/server/drivers/audio/
+player-3.0.2/server/drivers/audio/alsa.cc
+player-3.0.2/server/drivers/audio/CMakeLists.txt
+player-3.0.2/server/drivers/audio/alsa.h
+player-3.0.2/server/drivers/audio/audio_sample.h
+player-3.0.2/server/drivers/audio/.cvsignore
+player-3.0.2/server/drivers/audio/audio_sample.cc
+player-3.0.2/server/drivers/limb/
+player-3.0.2/server/drivers/limb/CMakeLists.txt
+player-3.0.2/server/drivers/limb/eeDHcontroller.cc
+player-3.0.2/server/.cvsignore
+player-3.0.2/server/timer.cc
+player-3.0.2/libplayercommon/
+player-3.0.2/libplayercommon/error.h
+player-3.0.2/libplayercommon/error.c
+player-3.0.2/libplayercommon/CMakeLists.txt
+player-3.0.2/libplayercommon/playercommon.h
+player-3.0.2/design/
+player-3.0.2/design/module.c.doc
+player-3.0.2/design/player.c.doc
+player-3.0.2/copyright_header.lib
+player-3.0.2/libplayerinterface/
+player-3.0.2/libplayerinterface/functiontable.c
+player-3.0.2/libplayerinterface/CMakeLists.txt
+player-3.0.2/libplayerinterface/playerxdr.html
+player-3.0.2/libplayerinterface/interfaces/
+player-3.0.2/libplayerinterface/interfaces/058_graphics3d.def
+player-3.0.2/libplayerinterface/interfaces/056_rfid.def
+player-3.0.2/libplayerinterface/interfaces/001_player.def
+player-3.0.2/libplayerinterface/interfaces/007_blobfinder.def
+player-3.0.2/libplayerinterface/interfaces/033_blinkenlight.def
+player-3.0.2/libplayerinterface/interfaces/040_camera.def
+player-3.0.2/libplayerinterface/interfaces/049_joystick.def
+player-3.0.2/libplayerinterface/interfaces/044_planner.def
+player-3.0.2/libplayerinterface/interfaces/004_position2d.def
+player-3.0.2/libplayerinterface/interfaces/030_position3d.def
+player-3.0.2/libplayerinterface/interfaces/031_simulation.def
+player-3.0.2/libplayerinterface/interfaces/063_vectormap.def
+player-3.0.2/libplayerinterface/interfaces/021_aio.def
+player-3.0.2/libplayerinterface/interfaces/059_health.def
+player-3.0.2/libplayerinterface/interfaces/020_dio.def
+player-3.0.2/libplayerinterface/interfaces/008_ptz.def
+player-3.0.2/libplayerinterface/interfaces/051_opaque.def
+player-3.0.2/libplayerinterface/interfaces/065_stereo.def
+player-3.0.2/libplayerinterface/interfaces/009_audio.def
+player-3.0.2/libplayerinterface/interfaces/054_limb.def
+player-3.0.2/libplayerinterface/interfaces/005_sonar.def
+player-3.0.2/libplayerinterface/interfaces/002_power.def
+player-3.0.2/libplayerinterface/interfaces/062_ranger.def
+player-3.0.2/libplayerinterface/interfaces/013_gps.def
+player-3.0.2/libplayerinterface/interfaces/061_pointcloud3d.def
+player-3.0.2/libplayerinterface/interfaces/010_fiducial.def
+player-3.0.2/libplayerinterface/interfaces/064_blackboard.def
+player-3.0.2/libplayerinterface/interfaces/052_position1d.def
+player-3.0.2/libplayerinterface/interfaces/003_gripper.def
+player-3.0.2/libplayerinterface/interfaces/042_map.def
+player-3.0.2/libplayerinterface/interfaces/ADDING_INTERFACES
+player-3.0.2/libplayerinterface/interfaces/012_speech.def
+player-3.0.2/libplayerinterface/interfaces/014_bumper.def
+player-3.0.2/libplayerinterface/interfaces/006_laser.def
+player-3.0.2/libplayerinterface/interfaces/055_graphics2d.def
+player-3.0.2/libplayerinterface/interfaces/045_log.def
+player-3.0.2/libplayerinterface/interfaces/057_wsn.def
+player-3.0.2/libplayerinterface/interfaces/053_actarray.def
+player-3.0.2/libplayerinterface/interfaces/025_localize.def
+player-3.0.2/libplayerinterface/interfaces/060_imu.def
+player-3.0.2/libplayerinterface/interfaces/050_speech_recognition.def
+player-3.0.2/libplayerinterface/interfaces/022_ir.def
+player-3.0.2/libplayerinterface/interfaces/023_wifi.def
+player-3.0.2/libplayerinterface/.cvsignore
+player-3.0.2/libplayerinterface/playerinterfacegen.py
+player-3.0.2/libplayerinterface/README
+player-3.0.2/libplayerinterface/addr_util.h
+player-3.0.2/libplayerinterface/playerxdrgen.py
+player-3.0.2/libplayerinterface/interface_util.c
+player-3.0.2/libplayerinterface/addr_util.c
+player-3.0.2/libplayerinterface/functiontable.h
+player-3.0.2/libplayerinterface/player.h
+player-3.0.2/libplayerinterface/interface_util.h
+player-3.0.2/PlayerCPackOptions.cmake.in
+player-3.0.2/doc/
+player-3.0.2/doc/tutorial_config.txt
+player-3.0.2/doc/playerweb.dox
+player-3.0.2/doc/player.txt
+player-3.0.2/doc/header.html
+player-3.0.2/doc/quick_start.txt
+player-3.0.2/doc/tutorial_interface.txt
+player-3.0.2/doc/tutorial_crosscompiling.txt
+player-3.0.2/doc/player.dox.in
+player-3.0.2/doc/CMakeLists.txt
+player-3.0.2/doc/configfile.html
+player-3.0.2/doc/tutorial_maps.txt
+player-3.0.2/doc/plugin_driver.html
+player-3.0.2/doc/footer.html
+player-3.0.2/doc/upload_www.sh
+player-3.0.2/doc/tutorial_devices.txt
+player-3.0.2/doc/.cvsignore
+player-3.0.2/doc/README
+player-3.0.2/doc/images/
+player-3.0.2/doc/images/sphere.png
+player-3.0.2/doc/images/.cvsignore
+player-3.0.2/doc/header.php
+player-3.0.2/doc/footer.php
+player-3.0.2/doc/supported_hardware.txt
+player-3.0.2/doc/tutorial_automake.txt
+player-3.0.2/doc/tutorial_cameras.txt
+player-3.0.2/doc/tutorial_datalog.txt
+player-3.0.2/doc/tutorial_args.txt
+player-3.0.2/doc/install.txt
+player-3.0.2/doc/tutorial_migration.txt
+player-3.0.2/doc/tutorial_plugins.txt
+player-3.0.2/doc/architecture.txt
+player-3.0.2/copyright_header.examples
+player-3.0.2/rtk2/
+player-3.0.2/rtk2/rtk.c
+player-3.0.2/rtk2/rtkprivate.h
+player-3.0.2/rtk2/rtk_canvas.c
+player-3.0.2/rtk2/rtk_table.c
+player-3.0.2/rtk2/rtk_fig.c
+player-3.0.2/rtk2/CMakeLists.txt
+player-3.0.2/rtk2/rtk_region.c
+player-3.0.2/rtk2/rtk.h
+player-3.0.2/rtk2/.cvsignore
+player-3.0.2/rtk2/rtk_menu.c
+player-3.0.2/rtk2/rtk_canvas_movie.c
+player-3.0.2/replace/
+player-3.0.2/replace/xdr.c
+player-3.0.2/replace/xdr_float.c
+player-3.0.2/replace/poll.c
+player-3.0.2/replace/xdr_mem.c
+player-3.0.2/replace/usleep.c
+player-3.0.2/replace/round.c
+player-3.0.2/replace/dirname.c
+player-3.0.2/replace/rpc/
+player-3.0.2/replace/rpc/xdr.h
+player-3.0.2/replace/rpc/types.h
+player-3.0.2/replace/CMakeLists.txt
+player-3.0.2/replace/xdr_array.c
+player-3.0.2/replace/clock_gettime.c
+player-3.0.2/replace/xdr_sizeof.c
+player-3.0.2/replace/replace.h
+player-3.0.2/replace/cfmakeraw.c
+player-3.0.2/replace/.cvsignore
+player-3.0.2/replace/xdr_intXX_t.c
+player-3.0.2/replace/gettimeofday.c
+player-3.0.2/replace/compressBound.c
+player-3.0.2/replace/getopt.c
+player-3.0.2/replace/nanosleep.c
+player-3.0.2/playerconf
+player-3.0.2/README
+player-3.0.2/client_libs/
+player-3.0.2/client_libs/libplayerc/
+player-3.0.2/client_libs/libplayerc/dev_vectormap.c
+player-3.0.2/client_libs/libplayerc/dev_blobfinder.c
+player-3.0.2/client_libs/libplayerc/dev_ranger.c
+player-3.0.2/client_libs/libplayerc/dev_opaque.c
+player-3.0.2/client_libs/libplayerc/error.h
+player-3.0.2/client_libs/libplayerc/dev_health.c
+player-3.0.2/client_libs/libplayerc/dev_gripper.c
+player-3.0.2/client_libs/libplayerc/dev_pointcloud3d.c
+player-3.0.2/client_libs/libplayerc/error.c
+player-3.0.2/client_libs/libplayerc/dev_planner.c
+player-3.0.2/client_libs/libplayerc/dev_blinkenlight.c
+player-3.0.2/client_libs/libplayerc/dev_wsn.c
+player-3.0.2/client_libs/libplayerc/dev_ptz.c
+player-3.0.2/client_libs/libplayerc/dev_actarray.c
+player-3.0.2/client_libs/libplayerc/mclient.c
+player-3.0.2/client_libs/libplayerc/dev_graphics3d.c
+player-3.0.2/client_libs/libplayerc/dev_motor.c
+player-3.0.2/client_libs/libplayerc/dev_fiducial.c
+player-3.0.2/client_libs/libplayerc/dev_stereo.c
+player-3.0.2/client_libs/libplayerc/dev_log.c
+player-3.0.2/client_libs/libplayerc/dev_graphics2d.c
+player-3.0.2/client_libs/libplayerc/dev_aio.c
+player-3.0.2/client_libs/libplayerc/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc/dev_power.c
+player-3.0.2/client_libs/libplayerc/client.c
+player-3.0.2/client_libs/libplayerc/playerc.h
+player-3.0.2/client_libs/libplayerc/doc/
+player-3.0.2/client_libs/libplayerc/doc/.cvsignore
+player-3.0.2/client_libs/libplayerc/doc/simpleclient.c.doc
+player-3.0.2/client_libs/libplayerc/doc/libplayerc_py.html
+player-3.0.2/client_libs/libplayerc/doc/mainpage.html
+player-3.0.2/client_libs/libplayerc/doc/joydrive.py.doc
+player-3.0.2/client_libs/libplayerc/dev_imu.c
+player-3.0.2/client_libs/libplayerc/test/
+player-3.0.2/client_libs/libplayerc/test/test.h
+player-3.0.2/client_libs/libplayerc/test/test_wifi.c
+player-3.0.2/client_libs/libplayerc/test/test.cfg
+player-3.0.2/client_libs/libplayerc/test/test_writelog.cfg
+player-3.0.2/client_libs/libplayerc/test/test_wsn.c
+player-3.0.2/client_libs/libplayerc/test/test_simulation.c
+player-3.0.2/client_libs/libplayerc/test/test_localize.c
+player-3.0.2/client_libs/libplayerc/test/test_position2d.c
+player-3.0.2/client_libs/libplayerc/test/test_rfid.c
+player-3.0.2/client_libs/libplayerc/test/test_stage.world
+player-3.0.2/client_libs/libplayerc/test/cave.pnm
+player-3.0.2/client_libs/libplayerc/test/test_map.c
+player-3.0.2/client_libs/libplayerc/test/test_graphics3d.c
+player-3.0.2/client_libs/libplayerc/test/test_localize.world
+player-3.0.2/client_libs/libplayerc/test/test_log.c
+player-3.0.2/client_libs/libplayerc/test/test_blobfinder.c
+player-3.0.2/client_libs/libplayerc/test/test_dio.c
+player-3.0.2/client_libs/libplayerc/test/test_camera.c
+player-3.0.2/client_libs/libplayerc/test/test_motor.c
+player-3.0.2/client_libs/libplayerc/test/test_graphics2d.c
+player-3.0.2/client_libs/libplayerc/test/test_joystick.c
+player-3.0.2/client_libs/libplayerc/test/test_localize.cfg
+player-3.0.2/client_libs/libplayerc/test/test_fiducial.c
+player-3.0.2/client_libs/libplayerc/test/test_gazebo.cfg
+player-3.0.2/client_libs/libplayerc/test/test_truth.c
+player-3.0.2/client_libs/libplayerc/test/.cvsignore
+player-3.0.2/client_libs/libplayerc/test/gazebo_stereo.cfg
+player-3.0.2/client_libs/libplayerc/test/test_ptz.c
+player-3.0.2/client_libs/libplayerc/test/test_gripper.c
+player-3.0.2/client_libs/libplayerc/test/test_stage.cfg
+player-3.0.2/client_libs/libplayerc/test/test_position3d.c
+player-3.0.2/client_libs/libplayerc/test/test_aio.c
+player-3.0.2/client_libs/libplayerc/test/test_gazebo_camera.cfg
+player-3.0.2/client_libs/libplayerc/test/microstrain.cfg
+player-3.0.2/client_libs/libplayerc/test/test_gps.c
+player-3.0.2/client_libs/libplayerc/test/test_imu.c
+player-3.0.2/client_libs/libplayerc/test/test_power.c
+player-3.0.2/client_libs/libplayerc/test/test_speech.c
+player-3.0.2/client_libs/libplayerc/test/test.c
+player-3.0.2/client_libs/libplayerc/test/test_blinkenlight.c
+player-3.0.2/client_libs/libplayerc/test/test_laser.c
+player-3.0.2/client_libs/libplayerc/test/test.world
+player-3.0.2/client_libs/libplayerc/test/test_sonar.c
+player-3.0.2/client_libs/libplayerc/dev_ir.c
+player-3.0.2/client_libs/libplayerc/dev_blackboard.c
+player-3.0.2/client_libs/libplayerc/dev_localize.c
+player-3.0.2/client_libs/libplayerc/bindings/
+player-3.0.2/client_libs/libplayerc/bindings/ruby/
+player-3.0.2/client_libs/libplayerc/bindings/ruby/playerc.i
+player-3.0.2/client_libs/libplayerc/bindings/ruby/libplayerc_rb.html
+player-3.0.2/client_libs/libplayerc/bindings/ruby/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc/bindings/ruby/TODO
+player-3.0.2/client_libs/libplayerc/bindings/python/
+player-3.0.2/client_libs/libplayerc/bindings/python/playerc.i
+player-3.0.2/client_libs/libplayerc/bindings/python/setup.py.cmake
+player-3.0.2/client_libs/libplayerc/bindings/python/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc/bindings/python/test/
+player-3.0.2/client_libs/libplayerc/bindings/python/test/test_camera.py
+player-3.0.2/client_libs/libplayerc/bindings/python/test/test_laser.py
+player-3.0.2/client_libs/libplayerc/bindings/python/test/test_wifi.py
+player-3.0.2/client_libs/libplayerc/bindings/python/test/test.py
+player-3.0.2/client_libs/libplayerc/bindings/python/test/test_position2d.py
+player-3.0.2/client_libs/libplayerc/bindings/python/.cvsignore
+player-3.0.2/client_libs/libplayerc/bindings/python/playerc_swig_parse.py
+player-3.0.2/client_libs/libplayerc/bindings/python/libplayerc_py.html
+player-3.0.2/client_libs/libplayerc/bindings/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc/bindings/.cvsignore
+player-3.0.2/client_libs/libplayerc/dev_speech_recognition.c
+player-3.0.2/client_libs/libplayerc/dev_dio.c
+player-3.0.2/client_libs/libplayerc/.cvsignore
+player-3.0.2/client_libs/libplayerc/dev_joystick.c
+player-3.0.2/client_libs/libplayerc/dev_bumper.c
+player-3.0.2/client_libs/libplayerc/dev_position2d.c
+player-3.0.2/client_libs/libplayerc/dev_laser.c
+player-3.0.2/client_libs/libplayerc/dev_gps.c
+player-3.0.2/client_libs/libplayerc/dev_speech.c
+player-3.0.2/client_libs/libplayerc/dev_rfid.c
+player-3.0.2/client_libs/libplayerc/device.c
+player-3.0.2/client_libs/libplayerc/dev_limb.c
+player-3.0.2/client_libs/libplayerc/dev_audio.c
+player-3.0.2/client_libs/libplayerc/dev_map.c
+player-3.0.2/client_libs/libplayerc/playerc.h_not_updated
+player-3.0.2/client_libs/libplayerc/dev_position3d.c
+player-3.0.2/client_libs/libplayerc/COPYING.LIB
+player-3.0.2/client_libs/libplayerc/dev_simulation.c
+player-3.0.2/client_libs/libplayerc/dev_sonar.c
+player-3.0.2/client_libs/libplayerc/dev_position1d.c
+player-3.0.2/client_libs/libplayerc/dev_camera.c
+player-3.0.2/client_libs/libplayerc/utils.c
+player-3.0.2/client_libs/libplayerc/dev_wifi.c
+player-3.0.2/client_libs/libplayerm/
+player-3.0.2/client_libs/libplayerm/Makefile
+player-3.0.2/client_libs/libplayerm/mex/
+player-3.0.2/client_libs/libplayerm/src/
+player-3.0.2/client_libs/libplayerm/src/cpointers.h
+player-3.0.2/client_libs/libplayerm/src/player_pos2d_goto.cc
+player-3.0.2/client_libs/libplayerm/src/player_sonar_connect.cc
+player-3.0.2/client_libs/libplayerm/src/player_pos2d_enable.cc
+player-3.0.2/client_libs/libplayerm/src/player_laser_range.cc
+player-3.0.2/client_libs/libplayerm/src/player_sonar.cc
+player-3.0.2/client_libs/libplayerm/src/player_pos2d_connect.cc
+player-3.0.2/client_libs/libplayerm/src/Makefile
+player-3.0.2/client_libs/libplayerm/src/player_sonar_disconnect.cc
+player-3.0.2/client_libs/libplayerm/src/player_pos2d_disconnect.cc
+player-3.0.2/client_libs/libplayerm/src/createMex.m
+player-3.0.2/client_libs/libplayerm/src/player_laser.cc
+player-3.0.2/client_libs/libplayerm/src/player_pos2d_set.cc
+player-3.0.2/client_libs/libplayerm/src/player_localize_connect.cc
+player-3.0.2/client_libs/libplayerm/src/player_pos2d_speed.cc
+player-3.0.2/client_libs/libplayerm/src/player_localize_hypothesis.cc
+player-3.0.2/client_libs/libplayerm/src/player_laser_connect.cc
+player-3.0.2/client_libs/libplayerm/src/player_pos2d.cc
+player-3.0.2/client_libs/libplayerm/src/player_laser_disconnect.cc
+player-3.0.2/client_libs/libplayerm/src/player_client_read.cc
+player-3.0.2/client_libs/libplayerm/src/player_localize_disconnect.cc
+player-3.0.2/client_libs/libplayerm/src/player_client_disconnect.cc
+player-3.0.2/client_libs/libplayerm/src/player_localize_particles.cc
+player-3.0.2/client_libs/libplayerm/src/player_client_connect.cc
+player-3.0.2/client_libs/libplayerm/readme.txt
+player-3.0.2/client_libs/libplayerm/install.txt
+player-3.0.2/client_libs/CMakeLists.txt
+player-3.0.2/client_libs/.cvsignore
+player-3.0.2/client_libs/libplayerc++/
+player-3.0.2/client_libs/libplayerc++/ptzproxy.cc
+player-3.0.2/client_libs/libplayerc++/playerc++config.h.in
+player-3.0.2/client_libs/libplayerc++/debug.h
+player-3.0.2/client_libs/libplayerc++/localizeproxy.cc
+player-3.0.2/client_libs/libplayerc++/clientproxy.cc
+player-3.0.2/client_libs/libplayerc++/speechrecognitionproxy.cc
+player-3.0.2/client_libs/libplayerc++/plannerproxy.cc
+player-3.0.2/client_libs/libplayerc++/wifiproxy.cc
+player-3.0.2/client_libs/libplayerc++/simulationproxy.cc
+player-3.0.2/client_libs/libplayerc++/energyproxy.cc
+player-3.0.2/client_libs/libplayerc++/playerc++.cc
+player-3.0.2/client_libs/libplayerc++/fiducialproxy.cc
+player-3.0.2/client_libs/libplayerc++/position3dproxy.cc
+player-3.0.2/client_libs/libplayerc++/position1dproxy.cc
+player-3.0.2/client_libs/libplayerc++/speechproxy.cc
+player-3.0.2/client_libs/libplayerc++/limbproxy.cc
+player-3.0.2/client_libs/libplayerc++/playerclient.h
+player-3.0.2/client_libs/libplayerc++/playererror.h
+player-3.0.2/client_libs/libplayerc++/vectormapproxy.cc
+player-3.0.2/client_libs/libplayerc++/cameraproxy.cc
+player-3.0.2/client_libs/libplayerc++/laserproxy.cc
+player-3.0.2/client_libs/libplayerc++/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc++/rfidproxy.cc
+player-3.0.2/client_libs/libplayerc++/healthproxy.cc
+player-3.0.2/client_libs/libplayerc++/rangerproxy.cc
+player-3.0.2/client_libs/libplayerc++/opaqueproxy.cc
+player-3.0.2/client_libs/libplayerc++/motorproxy.cc
+player-3.0.2/client_libs/libplayerc++/truthproxy.cc
+player-3.0.2/client_libs/libplayerc++/wsnproxy.cc
+player-3.0.2/client_libs/libplayerc++/test/
+player-3.0.2/client_libs/libplayerc++/test/test.h
+player-3.0.2/client_libs/libplayerc++/test/test_laser.cc
+player-3.0.2/client_libs/libplayerc++/test/test_ranger.cc
+player-3.0.2/client_libs/libplayerc++/test/test_misc.cc
+player-3.0.2/client_libs/libplayerc++/test/test_wifi.cc
+player-3.0.2/client_libs/libplayerc++/test/test_lookup.cc
+player-3.0.2/client_libs/libplayerc++/test/test_wsn.cc
+player-3.0.2/client_libs/libplayerc++/test/test_gripper.cc
+player-3.0.2/client_libs/libplayerc++/test/test_gripper_holdsub.cc
+player-3.0.2/client_libs/libplayerc++/test/test_bps.cc
+player-3.0.2/client_libs/libplayerc++/test/test_position3d.cc
+player-3.0.2/client_libs/libplayerc++/test/test_lbd.cc
+player-3.0.2/client_libs/libplayerc++/test/test_localize.cc
+player-3.0.2/client_libs/libplayerc++/test/test_rfid.cc
+player-3.0.2/client_libs/libplayerc++/test/test_blinkenlight.cc
+player-3.0.2/client_libs/libplayerc++/test/test_truth.cc
+player-3.0.2/client_libs/libplayerc++/test/test_ptz.cc
+player-3.0.2/client_libs/libplayerc++/test/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc++/test/test_blobfinder.cc
+player-3.0.2/client_libs/libplayerc++/test/test_motor.cc
+player-3.0.2/client_libs/libplayerc++/test/test_audiomixer.cc
+player-3.0.2/client_libs/libplayerc++/test/test_aio.cc
+player-3.0.2/client_libs/libplayerc++/test/test.cc
+player-3.0.2/client_libs/libplayerc++/test/test_client.cc
+player-3.0.2/client_libs/libplayerc++/test/test_position2d.cc
+player-3.0.2/client_libs/libplayerc++/test/test_log.cc
+player-3.0.2/client_libs/libplayerc++/test/.cvsignore
+player-3.0.2/client_libs/libplayerc++/test/test_actarray.cc
+player-3.0.2/client_libs/libplayerc++/test/test_sonar.cc
+player-3.0.2/client_libs/libplayerc++/test/test_position_control.cc
+player-3.0.2/client_libs/libplayerc++/test/test_gps.cc
+player-3.0.2/client_libs/libplayerc++/test/test_audiodsp.cc
+player-3.0.2/client_libs/libplayerc++/test/test_speech.cc
+player-3.0.2/client_libs/libplayerc++/test/test_camera.cc
+player-3.0.2/client_libs/libplayerc++/test/test_dio.cc
+player-3.0.2/client_libs/libplayerc++/test/test_vision.cc
+player-3.0.2/client_libs/libplayerc++/test/test_bumper.cc
+player-3.0.2/client_libs/libplayerc++/test/test_power.cc
+player-3.0.2/client_libs/libplayerc++/test/test_fiducialfinder.cc
+player-3.0.2/client_libs/libplayerc++/test/test_position2d_holdsub.cc
+player-3.0.2/client_libs/libplayerc++/test/test_position.cc
+player-3.0.2/client_libs/libplayerc++/bindings/
+player-3.0.2/client_libs/libplayerc++/bindings/ruby/
+player-3.0.2/client_libs/libplayerc++/bindings/ruby/libplayerc_rb.html
+player-3.0.2/client_libs/libplayerc++/bindings/ruby/playercpp.i
+player-3.0.2/client_libs/libplayerc++/bindings/ruby/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc++/bindings/ruby/test/
+player-3.0.2/client_libs/libplayerc++/bindings/ruby/test/test_bindings_installation.rb
+player-3.0.2/client_libs/libplayerc++/bindings/ruby/example.rb.doc
+player-3.0.2/client_libs/libplayerc++/bindings/python/
+player-3.0.2/client_libs/libplayerc++/bindings/python/setup.py.cmake
+player-3.0.2/client_libs/libplayerc++/bindings/python/playercpp.i
+player-3.0.2/client_libs/libplayerc++/bindings/python/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc++/bindings/python/libplayercpp_py.html
+player-3.0.2/client_libs/libplayerc++/bindings/python/.cvsignore
+player-3.0.2/client_libs/libplayerc++/bindings/CMakeLists.txt
+player-3.0.2/client_libs/libplayerc++/bindings/.cvsignore
+player-3.0.2/client_libs/libplayerc++/bumperproxy.cc
+player-3.0.2/client_libs/libplayerc++/gpsproxy.cc
+player-3.0.2/client_libs/libplayerc++/.cvsignore
+player-3.0.2/client_libs/libplayerc++/dioproxy.cc
+player-3.0.2/client_libs/libplayerc++/joystickproxy.cc
+player-3.0.2/client_libs/libplayerc++/playererror.cc
+player-3.0.2/client_libs/libplayerc++/logproxy.cc
+player-3.0.2/client_libs/libplayerc++/blobfinderproxy.cc
+player-3.0.2/client_libs/libplayerc++/blinkenlightproxy.cc
+player-3.0.2/client_libs/libplayerc++/graphics3dproxy.cc
+player-3.0.2/client_libs/libplayerc++/mapproxy.cc
+player-3.0.2/client_libs/libplayerc++/aioproxy.cc
+player-3.0.2/client_libs/libplayerc++/blackboardproxy.cc
+player-3.0.2/client_libs/libplayerc++/irproxy.cc
+player-3.0.2/client_libs/libplayerc++/soundproxy.cc
+player-3.0.2/client_libs/libplayerc++/actarrayproxy.cc
+player-3.0.2/client_libs/libplayerc++/graphics2dproxy.cc
+player-3.0.2/client_libs/libplayerc++/playerc++.h
+player-3.0.2/client_libs/libplayerc++/imuproxy.cc
+player-3.0.2/client_libs/libplayerc++/playerclient.cc
+player-3.0.2/client_libs/libplayerc++/utility.h
+player-3.0.2/client_libs/libplayerc++/sonarproxy.cc
+player-3.0.2/client_libs/libplayerc++/powerproxy.cc
+player-3.0.2/client_libs/libplayerc++/gripperproxy.cc
+player-3.0.2/client_libs/libplayerc++/pointcloud3d.cc
+player-3.0.2/client_libs/libplayerc++/audioproxy.cc
+player-3.0.2/client_libs/libplayerc++/clientproxy.h
+player-3.0.2/client_libs/libplayerc++/bpsproxy.cc
+player-3.0.2/client_libs/libplayerc++/position2dproxy.cc
+player-3.0.2/config/
+player-3.0.2/config/roomba.cfg
+player-3.0.2/config/hokuyo_aist.cfg
+player-3.0.2/config/joystick.cfg
+player-3.0.2/config/umass_ATRVJr.cfg
+player-3.0.2/config/dummy.cfg
+player-3.0.2/config/obot.cfg
+player-3.0.2/config/wavefront.cfg
+player-3.0.2/config/iwspy.cfg
+player-3.0.2/config/b21r_rflex_lms200.cfg
+player-3.0.2/config/sphere.cfg
+player-3.0.2/config/wbr914.cfg
+player-3.0.2/config/pioneer_rs4euze.cfg
+player-3.0.2/config/afsm.eps
+player-3.0.2/config/readlog.cfg
+player-3.0.2/config/magellan.cfg
+player-3.0.2/config/amigobot.cfg
+player-3.0.2/config/CMakeLists.txt
+player-3.0.2/config/lms400.cfg
+player-3.0.2/config/vfh.cfg
+player-3.0.2/config/rfid.cfg
+player-3.0.2/config/phidgetIFK.cfg
+player-3.0.2/config/umass_reb.cfg
+player-3.0.2/config/pioneer.cfg
+player-3.0.2/config/phidgetRFID.cfg
+player-3.0.2/config/.cvsignore
+player-3.0.2/config/simple.cfg
+player-3.0.2/config/gridmap.cfg
+player-3.0.2/config/amigobot_tcp.cfg
+player-3.0.2/config/passthrough.cfg
+player-3.0.2/config/segwayrmp.cfg
+player-3.0.2/config/colors.txt
+player-3.0.2/config/pointcloud3d.cfg
+player-3.0.2/config/wsn.cfg
+player-3.0.2/config/urglaser.cfg
+player-3.0.2/config/erratic.cfg
+player-3.0.2/config/writelog.cfg
+player-3.0.2/config/nomad.cfg
+player-3.0.2/config/cvcam.cfg
+player-3.0.2/config/PHE-05cm.pnm.gz
+player-3.0.2/config/mbicp.cfg
+player-3.0.2/config/searchpattern_symbols.ps
+player-3.0.2/config/mapfile.cfg
+player-3.0.2/config/service_adv.cfg
+player-3.0.2/config/umass_ATRVMini.cfg
+player-3.0.2/config/searchpattern.cfg
+player-3.0.2/config/afsm.cfg
+player-3.0.2/config/amtecM5.cfg
+player-3.0.2/ChangeLog
+-- The C compiler identification is GNU 5.3.0
+-- The CXX compiler identification is GNU 5.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Player version 3.0.2
+-- Operating system is Linux
+-- Got System Processor x86_64
+-- Linux x86_64 Detected
+-- Player will be installed to /usr
+-- Player libraries will be in lib64
+-- Looking for getaddrinfo
+-- Looking for getaddrinfo - found
+-- Looking for xdr_free
+-- Looking for xdr_free - found
+-- Looking for xdr_longlong_t
+-- Looking for xdr_longlong_t - found
+-- Performing Test HAVE_STRUCT_TIMESPEC
+-- Performing Test HAVE_STRUCT_TIMESPEC - Success
+-- Looking for gettimeofday
+-- Looking for gettimeofday - found
+-- Looking for usleep
+-- Looking for usleep - found
+-- Looking for cfmakeraw
+-- Looking for cfmakeraw - found
+-- Looking for dirname
+-- Looking for dirname - found
+-- Looking for getopt
+-- Looking for getopt - found
+-- Looking for getopt_long
+-- Looking for getopt_long - found
+-- Looking for include file linux/joystick.h
+-- Looking for include file linux/joystick.h - found
+-- Looking for include file stdint.h
+-- Looking for include file stdint.h - found
+-- Looking for include file strings.h
+-- Looking for include file strings.h - found
+-- Looking for include file dns_sd.h
+-- Looking for include file dns_sd.h - not found
+-- Looking for include file sys/filio.h
+-- Looking for include file sys/filio.h - not found
+-- Looking for include file ieeefp.h
+-- Looking for include file ieeefp.h - not found
+-- Looking for lt_dlopenext in ltdl
+-- Looking for lt_dlopenext in ltdl - found
+-- Looking for nanosleep
+-- Looking for nanosleep - found
+-- Looking for poll
+-- Looking for poll - found
+-- Looking for atan2 in m
+-- Looking for atan2 in m - found
+-- Looking for round
+-- Looking for round - found
+-- Looking for rint
+-- Looking for rint - found
+-- Looking for jpeg_read_header in jpeg
+-- Looking for jpeg_read_header in jpeg - found
+-- Looking for include files stdio.h, jpeglib.h
+-- Looking for include files stdio.h, jpeglib.h - found
+-- Looking for compressBound
+-- Looking for compressBound - found
+-- Looking for compress2 in z
+-- Looking for compress2 in z - found
+-- Looking for include file zlib.h
+-- Looking for include file zlib.h - found
+-- Looking for clock_gettime in rt
+-- Looking for clock_gettime in rt - found
+-- Looking for clock_gettime
+-- Looking for clock_gettime - found
+-- Looking for GEOSGeomFromWKB_buf in geos_c
+-- Looking for GEOSGeomFromWKB_buf in geos_c - not found
+-- Check if the system is big endian
+-- Searching 16 bit integer
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of unsigned short
+-- Check size of unsigned short - done
+-- Using unsigned short
+-- Check if the system is big endian - little endian
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Checking for module 'libgnomecanvas-2.0'
+--   No package 'libgnomecanvas-2.0' found
+-- Checking for module 'gtk+-2.0'
+--   Found gtk+-2.0, version 2.24.30
+-- Checking for module 'gdk-pixbuf-2.0'
+--   Found gdk-pixbuf-2.0, version 2.32.3
+-- Looking for include file pthread.h
+-- Looking for include file pthread.h - found
+-- Large file support is disabled.
+-- Found PythonInterp: /usr/bin/python (found version "2.7.11") 
+-- ===== Client Libraries =====
+-- Found SWIG: /usr/bin/swig (found version "3.0.7") 
+-- Python bindings for C client library will be built
+-- Found PythonLibs: /usr/lib64/libpython2.7.so (found version "2.7.11") 
+-- Found Ruby: /usr/bin/ruby (found version "2.2.0") 
+-- Ruby bindings for C client library will be built
+-- Ruby bindings for C client will be installed to lib64/ruby/site_ruby/2.2.0/x86_64-linux
+-- Python bindings for C++ client library will not be built - playerc++ client library disabled
+-- Ruby bindings for C++ client library will not be built - playerc++ client library disabled
+-- Boost version: 1.59.0
+-- PlayerC++ client library will be built with Boost::Thread support.
+-- PlayerC++ client library will be built with Boost::Signals support.
+-- ============================
+-- 
+-- ----- Processing driver make files -----
+-- Looking for C++ include Device.h
+-- Looking for C++ include Device.h - not found
+-- Looking for include file alsa/asoundlib.h
+-- Looking for include file alsa/asoundlib.h - found
+-- Checking for module 'artoolkitplus>=2.1'
+--   
+-- Looking for include files stdio.h, jpeglib.h
+-- Looking for include files stdio.h, jpeglib.h - found
+-- Checking for module 'opencv'
+--   Found opencv, version 3.1.0
+-- Looking for include files sys/types.h, linux/videodev.h
+-- Looking for include files sys/types.h, linux/videodev.h - not found
+-- Looking for include files sys/types.h, linux/videodev2.h
+-- Looking for include files sys/types.h, linux/videodev2.h - found
+-- Looking for include file dc1394/control.h
+-- Looking for include file dc1394/control.h - found
+-- Looking for include file libraw1394/raw1394.h
+-- Looking for include file libraw1394/raw1394.h - found
+-- Looking for include files dc1394/dc1394.h, dc1394/linux/control.h
+-- Looking for include files dc1394/dc1394.h, dc1394/linux/control.h - found
+-- Checking for module 'gstreamer-base-0.10'
+--   Found gstreamer-base-0.10, version 0.10.36
+-- Looking for include file yarp/os/all.h
+-- Looking for include file yarp/os/all.h - not found
+-- Looking for include file yarp/sig/all.h
+-- Looking for include file yarp/sig/all.h - not found
+-- Looking for include file unicap.h
+-- Looking for include file unicap.h - not found
+-- Looking for inb_p
+-- Looking for inb_p - found
+-- Looking for outb_p
+-- Looking for outb_p - found
+-- Looking for include file sys/io.h
+-- Looking for include file sys/io.h - found
+-- Checking for module 'GbxGarminAcfr=1.0.0'
+--   
+-- Checking for module 'libstatgrab'
+--   No package 'libstatgrab' found
+-- Looking for include file usb.h
+-- Looking for include file usb.h - found
+-- Looking for include file linux/joystick.h
+-- Looking for include file linux/joystick.h - found
+-- Looking for include file linux/serial.h
+-- Looking for include file linux/serial.h - found
+-- Looking for main in roboop
+-- Looking for main in roboop - not found
+-- Checking for module 'gdk-pixbuf-2.0'
+--   Found gdk-pixbuf-2.0, version 2.32.3
+-- Looking for include file asm/ioctls.h
+-- Looking for include file asm/ioctls.h - found
+-- Checking for module 'libgarcia'
+--   No package 'libgarcia' found
+-- Checking for module 'gtk+-2.0'
+--   Found gtk+-2.0, version 2.24.30
+-- Looking for include file phidget21.h
+-- Looking for include file phidget21.h - not found
+-- Looking for include file /include/canlib.h
+-- Looking for include file /include/canlib.h - not found
+-- Looking for include file robotinocom.h
+-- Looking for include file robotinocom.h - not found
+-- Looking for include file xtimer.h
+-- Looking for include file xtimer.h - not found
+-- Looking for include file xthread.h
+-- Looking for include file xthread.h - not found
+-- Looking for include file libusbSR.h
+-- Looking for include file libusbSR.h - not found
+-- Looking for C++ include libMesaSR.h
+-- Looking for C++ include libMesaSR.h - not found
+-- Looking for include file linux/serial.h
+-- Looking for include file linux/serial.h - found
+-- Checking for module 'flexiport=1.0.0'
+--   
+-- Looking for include file isense/isense.h
+-- Looking for include file isense/isense.h - not found
+-- Checking for module 'GbxSmartBatteryAcfr=1.0.0'
+--   
+-- Checking for module 'GbxSickAcfr=1.0.0'
+--   
+-- Checking for module 'hokuyo_aist=1.0.0'
+--   
+-- Checking for module 'howl>=0.9.6'
+--   
+-- Checking for module 'libpqxx'
+--   No package 'libpqxx' found
+-- Looking for include file sphinx2/ckd_alloc.h
+-- Looking for include file sphinx2/ckd_alloc.h - not found
+-- Looking for C++ include SVS/svsclass.h
+-- Looking for C++ include SVS/svsclass.h - not found
+-- Checking for module 'libpqxx'
+--   No package 'libpqxx' found
+-- Looking for include file linux/wireless.h
+-- Looking for include file linux/wireless.h - not found
+-- Looking for include file libparticle.h
+-- Looking for include file libparticle.h - not found
+-- ----- Done -----
+-- 
+-- ===== Drivers =====
+-- The following drivers will be built:
+-- AioToSonar
+-- accel_calib
+-- acr120u
+-- acts
+-- alsa
+-- amcl
+-- amtecpowercube
+-- aodv
+-- bitlogic
+-- blobposition
+-- blobtodio
+-- blobtracker
+-- bumper2laser
+-- bumpersafe
+-- bumpertodio
+-- camera1394
+-- cameracompress
+-- cameragst
+-- camerauncompress
+-- camerauvc
+-- camerav4l2
+-- camfilter
+-- canonvcc4
+-- clodbuster
+-- cmdsplitter
+-- cmucam2
+-- cmvision
+-- create
+-- cvcam
+-- deadstop
+-- diocmd
+-- diodelay
+-- diolatch
+-- dummy
+-- epuck
+-- er1
+-- erratic
+-- fakelocalize
+-- festival
+-- flockofbirds
+-- garminnmea
+-- globalize
+-- goto
+-- gridmap
+-- gripcmd
+-- imageseq
+-- imgcmp
+-- imgsave
+-- inhibitor
+-- insideM300
+-- iwspy
+-- kartowriter
+-- khepera
+-- laserbar
+-- laserbarcode
+-- lasercspace
+-- lasercutter
+-- laserposeinterpolator
+-- laserptzcloud
+-- laserrescan
+-- lasersafe
+-- lasertoranger
+-- linuxjoystick
+-- localbb
+-- mapcspace
+-- mapfile
+-- mapscale
+-- mbicp
+-- mica2
+-- microstrain
+-- motionmind
+-- mricp
+-- nd
+-- nimu
+-- nomad
+-- obot
+-- opaquecmd
+-- p2os
+-- passthrough
+-- pbslaser
+-- portio
+-- ptu46
+-- rangerposeinterpolator
+-- rangertodio
+-- rangertolaser
+-- readlog
+-- relay
+-- rflex
+-- roboteq
+-- robotracker
+-- roomba
+-- rs4leuze
+-- rt3xxx
+-- searchpattern
+-- segwayrmp400
+-- serialstream
+-- serio
+-- shapetracker
+-- sickLDMRS
+-- sickRFI341
+-- sicklms200
+-- sicklms400
+-- sicknav200
+-- sicks3000
+-- simpleshape
+-- skyetekM1
+-- snd
+-- sonartoranger
+-- sonyevid30
+-- speechcmd
+-- sphereptz
+-- stalltodio
+-- suppressor
+-- tcpstream
+-- upcbarcode
+-- vec2map
+-- velcmd
+-- vfh
+-- videocanny
+-- vmapfile
+-- wavefront
+-- wbr914
+-- writelog
+-- 
+-- The following drivers will not be built:
+-- amtecm5 - Could not find header Device.h
+-- artoolkitplus - Could not find package artoolkitplus
+-- camerav4l - Could not find header linux/videodev.h
+-- eedhcontroller - Disabled - probably doesn't build
+-- flexiport - Could not find package flexiport
+-- garcia - Could not find package libgarcia
+-- gbxgarminacfr - Could not find package GbxGarminAcfr
+-- gbxsickacfr - Could not find package GbxSickAcfr
+-- hokuyo_aist - Could not find package hokuyo_aist
+-- isense - Could not find header isense/isense.h
+-- laservisualbarcode - Has not been updated to use dynamic message structures
+-- laservisualbw - Has not been updated to use dynamic message structures
+-- linuxwifi - Could not find header linux/wireless.h
+-- oceanserver - Could not find package GbxSmartBatteryAcfr
+-- phidgetAcc - Could not find header phidget21.h
+-- phidgetRFID - Could not find header phidget21.h
+-- phidgetifk - Could not find header phidget21.h
+-- postgis - Could not find package libpqxx
+-- postlog - Could not find package libpqxx
+-- rcore_xbridge - Could not find header libparticle.h
+-- reb - Disabled by default
+-- robotino - Could not find header robotinocom.h
+-- segwayrmp - Disabled by default
+-- service_adv_mdns - Disabled by default
+-- sphere - Could not find header linux/videodev.h
+-- sphinx2 - Disabled by default
+-- sr3000 - Could not find header libusbSR.h
+-- statgrab - Could not find package libstatgrab
+-- stoc - Could not find header SVS/svsclass.h
+-- swissranger - Could not find header libMesaSR.h
+-- unicapimage - Could not find header unicap.h
+-- xsensmt - Disabled by default - set XSENSMT_SOURCE_DIR
+-- yarpimage - Could not find header yarp/os/all.h
+-- ===================
+-- 
+-- ===== Examples =====
+-- ====================
+-- 
+-- ===== Player utilities =====
+-- playernav will not be built - Gnome Canvas not found
+-- Looking for gtk_dialog_new_with_buttons
+-- Looking for gtk_dialog_new_with_buttons - found
+-- Looking for gtk_button_set_use_stock
+-- Looking for gtk_button_set_use_stock - found
+-- Looking for gtk_dialog_run
+-- Looking for gtk_dialog_run - found
+-- Checking for module 'gsl'
+--   Found gsl, version 2.1
+-- Found OpenGL: /usr/lib64/libGL.so  
+-- Found GLUT: /usr/lib64/libglut.so  
+-- ============================
+-- 
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    LIB_SUFFIX
+
+
+-- Build files have been written to: /tmp/SBo/player-3.0.2/build
+Scanning dependencies of target player_interfaces
+Scanning dependencies of target playerxdr_src
+Scanning dependencies of target playercommon
+Scanning dependencies of target functiontable_gen
+Scanning dependencies of target playerjpeg
+Scanning dependencies of target playerc_wrap_i_target
+Scanning dependencies of target interface_table
+[  0%] Generating player_interfaces.h
+[  0%] Generating player_interfaces.h
+[  1%] Building C object libplayercommon/CMakeFiles/playercommon.dir/error.o
+[  1%] Building C object libplayerjpeg/CMakeFiles/playerjpeg.dir/playerjpeg.o
+[  1%] Generating playerc_wrap.i
+[  1%] Generating functiontable_gen.h
+[  1%] Generating player_interfaces.h
+Processing interface:  1 player
+Processing interface:  1 player
+Processing interface:  1 player
+Processing interface:  2 power
+Processing interface:  2 power
+Processing interface:  3 gripper
+Processing interface:  3 gripper
+Processing interface:  2 power
+Processing interface:  4 position2d
+Processing interface:  3 gripper
+Processing interface:  4 position2d
+Processing interface:  5 sonar
+Processing interface:  6 laser
+Processing interface:  4 position2d
+Processing interface:  1 player
+Processing interface:  5 sonar
+Processing interface:  7 blobfinder
+Processing interface:  6 laser
+Processing interface:  8 ptz
+Processing interface:  5 sonar
+Processing interface:  6 laser
+Processing interface:  9 audio
+Processing interface:  7 blobfinder
+Processing interface: Processing interface:   102  fiducialpower
+
+Processing interface:  7 blobfinder
+Processing interface:  12 speech
+Processing interface:  13 gps
+Processing interface:  8 ptz
+Processing interface:  3 gripper
+Processing interface:  14 bumper
+Processing interface:  20 dio
+Processing interface:  21 aio
+Processing interface:  22 ir
+Processing interface:  4 position2d
+Processing interface:  8 ptz
+Processing interface:  9 audio
+Processing interface:  23 wifi
+Processing interface:  25 localize
+Processing interface:  9 audio
+Processing interface:  30 position3d
+Processing interface:  5 sonar
+Processing interface:  6 laser
+Processing interface:  31 simulation
+Processing interface:  10 fiducial
+Processing interface:  33 blinkenlight
+Processing interface:  12 speech
+Processing interface:  40 camera
+Processing interface:  13 gps
+Processing interface:  10 fiducial
+Processing interface:  42 map
+Processing interface:  7 blobfinder
+Processing interface:  14 bumper
+Processing interface:  44 planner
+Processing interface:  12 speech
+Processing interface:  13 gps
+Processing interface:  20 dio
+Processing interface:  45 log
+Processing interface:  49 joystick
+Processing interface:  50 speech_recognition
+Processing interface:  51 opaque
+Processing interface:  52 position1d
+Processing interface:  21 aio
+Processing interface:  22 ir
+Processing interface:  14 bumper
+Processing interface:  23 wifi
+Processing interface:  20 dio
+Processing interface:  21 aio
+Processing interface:  22 ir
+Processing interface:  8 ptz
+Processing interface:  23 wifi
+Processing interface:  25 localize
+Processing interface:  9 audio
+Processing interface:  53 actarray
+Processing interface:  30 position3d
+Processing interface:  25 localize
+Processing interface:  30 position3d
+Processing interface:  31 simulation
+Processing interface:  10 fiducial
+Processing interface:  54 limb
+Processing interface:  12 speech
+Processing interface:  33 blinkenlight
+Processing interface:  13 gps
+Processing interface:  31 simulation
+Processing interface:  55 graphics2d
+Processing interface:  40 camera
+Processing interface:  14 bumper
+Processing interface:  56 rfid
+Processing interface:  20 dio
+Processing interface:  57 wsn
+Processing interface:  33 blinkenlight
+Processing interface:  21 aio
+Processing interface:  42 map
+Processing interface:  22 ir
+Processing interface:  23 wifi
+Processing interface:  40 camera
+Processing interface:  44 planner
+Processing interface:  42 map
+Processing interface:  45 log
+Processing interface:  58 graphics3d
+Processing interface:  25 localize
+Processing interface:  49 joystick
+Processing interface:  50 speech_recognition
+Processing interface:  44 planner
+Processing interface:  59 health
+Processing interface:  51 opaque
+Processing interface:  30 position3d
+Processing interface:  52 position1d
+Processing interface:  60 imu
+Processing interface:  45 log
+Processing interface:  49 joystick
+Processing interface:  50 speech_recognition
+Processing interface:  51 opaque
+Processing interface:  52Processing interface:  position1d
+ 31 simulation
+Processing interface:  53 actarray
+Processing interface:  61 pointcloud3d
+Processing interface:  62 ranger
+Processing interface:  33 blinkenlight
+Processing interface:  40 camera
+Processing interface:  53 actarray
+Processing interface:  42 map
+Processing interface:  63 vectormap
+Processing interface:  54 limb
+Processing interface:  64 blackboard
+Processing interface:  44 planner
+Processing interface:  65 stereo
+Processing interface:  55 graphics2d
+Processing interface:  45 log
+Processing interface:  56 rfid
+Processing interface:  54 limb
+Processing interface:  57 wsn
+Processing interface:  49 joystick
+Processing interface:  50 speech_recognition
+Processing interface:  51 opaque
+Processing interface:  52 position1d
+Processing interface:  55 graphics2d
+Processing interface:  56 rfid
+Processing interface:  57 wsn
+Processing interface:  58 graphics3d
+Processing interface:  59 health
+Processing interface:  53 actarray
+Processing interface:  60 imu
+Processing interface:  58 graphics3d
+[  1%] Linking C shared library libplayercommon.so
+Processing interface:  59 health
+Processing interface:  60 imu
+Processing interface:  61 pointcloud3d
+Processing interface:  54 limb
+Processing interface:  62 ranger
+Processing interface:  61 pointcloud3d
+Processing interface:  55 graphics2d
+Processing interface:  63 vectormap
+Processing interface:  62 ranger
+Processing interface:  64 blackboard
+Processing interface:  65 stereo
+Processing interface:  56 rfid
+Processing interface:  57 wsn
+[  1%] Generating functiontable_gen.h
+Processing interface:  63 vectormap
+Processing interface:  64 blackboard
+Processing interface:  65 stereo
+Processing interface:  58 graphics3d
+Processing interface:  59 health
+Processing interface:  60 imu
+Processing interface:  61 pointcloud3d
+Processing interface:  62 ranger
+Processing interface:  63 vectormap
+[  1%] Built target functiontable_gen
+Processing interface:  64 blackboard
+Processing interface:  65 stereo
+[  1%] Generating player_interfaces.h
+[  2%] Generating playerxdr.h, playerxdr.c
+[  2%] Built target player_interfaces
+Scanning dependencies of target playerc_wrap_ri_target
+[  3%] Generating interface_table.h
+[  3%] Generating playerc_wrap.i
+[  3%] Generating interface_table.h
+processeing extra file  /tmp/SBo/player-3.0.2/build/libplayerinterface/player_interfaces.h
+Found 213 struct(s)
+[  3%] Built target interface_table
+[  3%] Built target playercommon
+[  3%] Linking C shared library libplayerjpeg.so
+[  4%] Generating playerc_wrap.h
+[  4%] Generating playerxdr.?
+Scanning dependencies of target playerlogsplitter
+[  4%] Built target playerc_wrap_i_target
+[  4%] Built target playerxdr_src
+Scanning dependencies of target wavefront_standalone
+[  5%] Building C object utils/logsplitter/CMakeFiles/playerlogsplitter.dir/logsplitter.o
+Scanning dependencies of target pmap
+[  5%] Building C object server/drivers/planner/wavefront/CMakeFiles/wavefront_standalone.dir/plan.o
+Scanning dependencies of target playerinterface
+[  5%] Building CXX object utils/pmap/CMakeFiles/pmap.dir/logfile.o
+[  5%] Building C object libplayerinterface/CMakeFiles/playerinterface.dir/playerxdr.o
+[  5%] Built target playerjpeg
+[  5%] Building C object libplayerinterface/CMakeFiles/playerinterface.dir/functiontable.o
+/tmp/SBo/player-3.0.2/utils/logsplitter/logsplitter.c: In function 'copySplitData':
+/tmp/SBo/player-3.0.2/utils/logsplitter/logsplitter.c:54:10: warning: variable 'lastdatalen' set but not used [-Wunused-but-set-variable]
+     long lastdatalen;
+          ^
+[  5%] Generating playerc_wrap.h
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan.c: In function 'plan_set_obstacles':
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan.c:110:13: warning: variable 't1' set but not used [-Wunused-but-set-variable]
+   double t0,t1;
+             ^
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan.c:110:10: warning: variable 't0' set but not used [-Wunused-but-set-variable]
+   double t0,t1;
+          ^
+[  5%] Built target playerc_wrap_ri_target
+Scanning dependencies of target playerwkb
+[  6%] Building C object libplayerwkb/CMakeFiles/playerwkb.dir/playerwkb.o
+Scanning dependencies of target rtk
+[  7%] Building CXX object utils/pmap/CMakeFiles/pmap.dir/omap.o
+[  7%] Linking C executable playerlogsplitter
+[  7%] Building C object rtk2/CMakeFiles/rtk.dir/rtk.o
+[  7%] Building C object libplayerinterface/CMakeFiles/playerinterface.dir/addr_util.o
+[  7%] Built target playerlogsplitter
+[  7%] Building C object libplayerinterface/CMakeFiles/playerinterface.dir/interface_util.o
+[  8%] Building C object server/drivers/planner/wavefront/CMakeFiles/wavefront_standalone.dir/plan_plan.o
+[  8%] Building C object server/drivers/planner/wavefront/CMakeFiles/wavefront_standalone.dir/plan_waypoint.o
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan_plan.c: In function 'plan_do_global':
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan_plan.c:59:13: warning: variable 't1' set but not used [-Wunused-but-set-variable]
+   double t0,t1;
+             ^
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan_plan.c:59:10: warning: variable 't0' set but not used [-Wunused-but-set-variable]
+   double t0,t1;
+          ^
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan_plan.c: In function 'plan_do_local':
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan_plan.c:108:13: warning: variable 't1' set but not used [-Wunused-but-set-variable]
+   double t0,t1;
+             ^
+/tmp/SBo/player-3.0.2/server/drivers/planner/wavefront/plan_plan.c:108:10: warning: variable 't0' set but not used [-Wunused-but-set-variable]
+   double t0,t1;
+          ^
+[  8%] Linking C shared library libplayerwkb.so
+[  8%] Building C object server/drivers/planner/wavefront/CMakeFiles/wavefront_standalone.dir/heap.o
+[  8%] Built target playerwkb
+[  8%] Building C object server/drivers/planner/wavefront/CMakeFiles/wavefront_standalone.dir/plan_control.o
+[  8%] Building CXX object utils/pmap/CMakeFiles/pmap.dir/pmap.o
+[  8%] Building C object rtk2/CMakeFiles/rtk.dir/rtk_canvas.o
+[  8%] Building C object rtk2/CMakeFiles/rtk.dir/rtk_canvas_movie.o
+/tmp/SBo/player-3.0.2/rtk2/rtk.c:124:5: warning: 'rtk_app_on_timer' defined but not used [-Wunused-function]
+ int rtk_app_on_timer(rtk_app_t *app)
+     ^
+[  9%] Building C object rtk2/CMakeFiles/rtk.dir/rtk_fig.o
+[  9%] Building C object rtk2/CMakeFiles/rtk.dir/rtk_region.o
+[ 10%] Linking C shared library libwavefront_standalone.so
+/tmp/SBo/player-3.0.2/utils/pmap/pmap.cpp: In function 'void pmap_draw_samples(pmap_t*)':
+/tmp/SBo/player-3.0.2/utils/pmap/pmap.cpp:655:18: warning: variable 'sample' set but not used [-Wunused-but-set-variable]
+   pmap_sample_t *sample;
+                  ^
+[ 10%] Built target wavefront_standalone
+[ 10%] Building C object rtk2/CMakeFiles/rtk.dir/rtk_menu.o
+/tmp/SBo/player-3.0.2/rtk2/rtk_fig.c: In function 'rtk_fig_render':
+/tmp/SBo/player-3.0.2/rtk2/rtk_fig.c:550:16: warning: variable 'drawable' set but not used [-Wunused-but-set-variable]
+   GdkDrawable *drawable;
+                ^
+[ 10%] Building C object rtk2/CMakeFiles/rtk.dir/rtk_table.o
+[ 10%] Building CXX object utils/pmap/CMakeFiles/pmap.dir/rmap.o
+[ 10%] Building CXX object utils/pmap/CMakeFiles/pmap.dir/slap.o
+[ 10%] Linking C static library librtk.a
+[ 10%] Linking CXX shared library libpmap.so
+[ 10%] Built target rtk
+[ 10%] Built target pmap
+[ 11%] Linking C shared library libplayerinterface.so
+[ 12%] Built target playerinterface
+Scanning dependencies of target playercore
+[ 13%] Building CXX object libplayercore/CMakeFiles/playercore.dir/driver.o
+[ 13%] Building CXX object libplayercore/CMakeFiles/playercore.dir/drivertable.o
+[ 13%] Building CXX object libplayercore/CMakeFiles/playercore.dir/configfile.o
+[ 13%] Building CXX object libplayercore/CMakeFiles/playercore.dir/devicetable.o
+[ 13%] Building CXX object libplayercore/CMakeFiles/playercore.dir/filewatcher.o
+[ 13%] Building CXX object libplayercore/CMakeFiles/playercore.dir/device.o
+Scanning dependencies of target playerc
+[ 14%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/mclient.o
+/tmp/SBo/player-3.0.2/libplayercore/drivertable.cc: In member function 'char** DriverTable::SortDrivers()':
+/tmp/SBo/player-3.0.2/libplayercore/drivertable.cc:167:76: warning: 'sortedlist' is used uninitialized in this function [-Wuninitialized]
+   qsort((void*)sortedlist, (size_t)numdrivers, sizeof(char*),driver_strcmp);
+                                                                            ^
+/tmp/SBo/player-3.0.2/libplayercore/configfile.cc: In member function 'bool ConfigFile::ParseTokenField(int, int*, int*)':
+/tmp/SBo/player-3.0.2/libplayercore/configfile.cc:1199:13: warning: variable 'value' set but not used [-Wunused-but-set-variable]
+   int name, value, count;
+             ^
+/tmp/SBo/player-3.0.2/libplayercore/configfile.cc:1199:20: warning: variable 'count' set but not used [-Wunused-but-set-variable]
+   int name, value, count;
+                    ^
+[ 14%] Building CXX object libplayercore/CMakeFiles/playercore.dir/message.o
+[ 14%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/client.o
+[ 15%] Building CXX object libplayercore/CMakeFiles/playercore.dir/wallclocktime.o
+[ 15%] Building CXX object libplayercore/CMakeFiles/playercore.dir/plugins.o
+[ 15%] Building CXX object libplayercore/CMakeFiles/playercore.dir/globals.o
+[ 15%] Building CXX object libplayercore/CMakeFiles/playercore.dir/property.o
+[ 15%] Building CXX object libplayercore/CMakeFiles/playercore.dir/threaded_driver.o
+[ 16%] Building CXX object libplayercore/CMakeFiles/playercore.dir/remote_driver.o
+[ 16%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/device.o
+[ 16%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/utils.o
+[ 16%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/error.o
+[ 17%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_actarray.o
+[ 17%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_audio.o
+[ 17%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_aio.o
+[ 17%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_blackboard.o
+[ 17%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_blinkenlight.o
+[ 18%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_bumper.o
+[ 18%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_blobfinder.o
+/tmp/SBo/player-3.0.2/client_libs/libplayerc/dev_blackboard.c: In function 'playerc_pack_blackboard_entry_string':
+/tmp/SBo/player-3.0.2/client_libs/libplayerc/dev_blackboard.c:81:26: warning: argument to 'sizeof' in 'memset' call is the same expression as the destination; did you mean to dereference it? [-Wsizeof-pointer-memaccess]
+   memset(entry, 0, sizeof(entry));
+                          ^
+/tmp/SBo/player-3.0.2/client_libs/libplayerc/dev_blackboard.c: In function 'playerc_pack_blackboard_entry_int':
+/tmp/SBo/player-3.0.2/client_libs/libplayerc/dev_blackboard.c:110:26: warning: argument to 'sizeof' in 'memset' call is the same expression as the destination; did you mean to dereference it? [-Wsizeof-pointer-memaccess]
+   memset(entry, 0, sizeof(entry));
+                          ^
+/tmp/SBo/player-3.0.2/client_libs/libplayerc/dev_blackboard.c: In function 'playerc_pack_blackboard_entry_double':
+/tmp/SBo/player-3.0.2/client_libs/libplayerc/dev_blackboard.c:139:26: warning: argument to 'sizeof' in 'memset' call is the same expression as the destination; did you mean to dereference it? [-Wsizeof-pointer-memaccess]
+   memset(entry, 0, sizeof(entry));
+                          ^
+[ 18%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_camera.o
+[ 18%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_dio.o
+[ 18%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_fiducial.o
+[ 19%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_gps.o
+[ 19%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_graphics2d.o
+[ 19%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_graphics3d.o
+[ 19%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_gripper.o
+[ 20%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_health.o
+[ 20%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_imu.o
+[ 20%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_ir.o
+[ 20%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_joystick.o
+[ 20%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_laser.o
+[ 21%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_limb.o
+[ 21%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_localize.o
+[ 21%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_log.o
+[ 21%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_map.o
+[ 21%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_opaque.o
+[ 22%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_planner.o
+[ 22%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_pointcloud3d.o
+[ 22%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_position1d.o
+[ 22%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_position2d.o
+[ 22%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_position3d.o
+[ 23%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_power.o
+[ 23%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_ptz.o
+[ 23%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_ranger.o
+[ 23%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_rfid.o
+[ 23%] Linking CXX shared library libplayercore.so
+[ 23%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_simulation.o
+[ 24%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_sonar.o
+[ 24%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_speech.o
+[ 24%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_speech_recognition.o
+[ 24%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_stereo.o
+[ 24%] Built target playercore
+[ 24%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_vectormap.o
+Scanning dependencies of target playertcp
+[ 25%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_wifi.o
+[ 25%] Building C object libplayertcp/CMakeFiles/playertcp.dir/socket_util.o
+Scanning dependencies of target playerudp
+[ 25%] Building C object client_libs/libplayerc/CMakeFiles/playerc.dir/dev_wsn.o
+[ 25%] Building CXX object libplayertcp/CMakeFiles/playerudp.dir/playerudp.o
+[ 25%] Building CXX object libplayertcp/CMakeFiles/playertcp.dir/playertcp.o
+Scanning dependencies of target exampledriver
+[ 25%] Building CXX object examples/plugins/exampledriver/CMakeFiles/exampledriver.dir/exampledriver.o
+[ 25%] Building CXX object libplayertcp/CMakeFiles/playertcp.dir/tcpremote_driver.o
+Scanning dependencies of target multidriver
+[ 25%] Building CXX object examples/plugins/multidriver/CMakeFiles/multidriver.dir/multidriver.o
+[ 25%] Linking C shared library libplayerc.so
+/tmp/SBo/player-3.0.2/libplayertcp/playertcp.cc: In member function 'int PlayerTCP::Write(bool)':
+/tmp/SBo/player-3.0.2/libplayertcp/playertcp.cc:840:9: warning: unused variable 'ret' [-Wunused-variable]
+     int ret = pthread_mutex_trylock(&clients_mutex);
+         ^
+[ 25%] Linking CXX shared library libexampledriver.so
+[ 25%] Built target playerc
+/tmp/SBo/player-3.0.2/libplayertcp/playerudp.cc: In member function 'int PlayerUDP::WriteClient(int)':
+/tmp/SBo/player-3.0.2/libplayertcp/playerudp.cc:555:7: warning: 'encode_msglen' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   int encode_msglen;
+       ^
+Scanning dependencies of target opaquedriver
+[ 25%] Building CXX object examples/plugins/opaquedriver/CMakeFiles/opaquedriver.dir/opaquedriver.o
+[ 26%] Linking CXX shared library libmultidriver.so
+[ 26%] Built target exampledriver
+/tmp/SBo/player-3.0.2/libplayertcp/playertcp.cc: In member function 'int PlayerTCP::WriteClient(int)':
+/tmp/SBo/player-3.0.2/libplayertcp/playertcp.cc:641:7: warning: 'encode_msglen' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   int encode_msglen;
+       ^
+Scanning dependencies of target opaque_client
+[ 26%] Building C object examples/plugins/opaquedriver/CMakeFiles/opaque_client.dir/opaque.o
+[ 26%] Built target multidriver
+[ 26%] Generating example_functiontable.c
+[ 27%] Linking CXX shared library libopaquedriver.so
+Processing interface:  128 example
+[ 28%] Generating example_interface.h
+[ 28%] Linking C executable opaque_client
+Processing interface:  128 example
+[ 28%] Generating example_xdr.h, example_xdr.c
+[ 28%] Linking CXX shared library libplayerudp.so
+Found 3 struct(s)
+[ 28%] Built target opaque_client
+Scanning dependencies of target example_driver
+Scanning dependencies of target example
+[ 28%] Building C object examples/plugins/exampleinterface/CMakeFiles/example_driver.dir/example_xdr.o
+[ 28%] Building C object examples/plugins/exampleinterface/CMakeFiles/example.dir/example_xdr.o
+[ 28%] Building C object examples/plugins/exampleinterface/CMakeFiles/example.dir/eginterf_client.o
+[ 28%] Built target opaquedriver
+[ 29%] Linking CXX shared library libplayertcp.so
+[ 29%] Building CXX object examples/plugins/exampleinterface/CMakeFiles/example_driver.dir/eginterf_driver.o
+[ 29%] Built target playerudp
+[ 30%] Building C object examples/plugins/exampleinterface/CMakeFiles/example.dir/example_functiontable.o
+Scanning dependencies of target playerdrivers
+[ 30%] Linking C shared library libexample.so
+[ 31%] Linking CXX shared library libexample_driver.so
+[ 31%] Built target playertcp
+[ 32%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/driverregistry.o
+[ 32%] Built target example
+Scanning dependencies of target playercam
+[ 32%] Building C object utils/playercam/CMakeFiles/playercam.dir/playercam.o
+Scanning dependencies of target lodo
+[ 32%] Building CXX object utils/pmap/CMakeFiles/lodo.dir/lodo.o
+Scanning dependencies of target playervcr
+Scanning dependencies of target playerwritemap
+[ 32%] Building C object utils/playervcr/CMakeFiles/playervcr.dir/playervcr.o
+[ 32%] Built target example_driver
+[ 32%] Building C object utils/playerwritemap/CMakeFiles/playerwritemap.dir/playerwritemap.o
+[ 33%] Building CXX object utils/pmap/CMakeFiles/lodo.dir/slap.o
+[ 33%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/audio/alsa.o
+/tmp/SBo/player-3.0.2/utils/playercam/playercam.c: In function 'render_camera':
+/tmp/SBo/player-3.0.2/utils/playercam/playercam.c:220:5: warning: 'gdk_pixbuf_unref' is deprecated: Use 'g_object_unref' instead [-Wdeprecated-declarations]
+     gdk_pixbuf_unref(blobbuf);
+     ^
+In file included from /usr/include/gdk-pixbuf-2.0/gdk-pixbuf/gdk-pixbuf.h:33:0,
+                 from /usr/include/gtk-2.0/gdk/gdkpixbuf.h:37,
+                 from /usr/include/gtk-2.0/gdk/gdkcairo.h:28,
+                 from /usr/include/gtk-2.0/gdk/gdk.h:33,
+                 from /usr/include/gtk-2.0/gtk/gtk.h:32,
+                 from /tmp/SBo/player-3.0.2/utils/playercam/playercam.c:93:
+/usr/include/gdk-pixbuf-2.0/gdk-pixbuf/gdk-pixbuf-core.h:226:12: note: declared here
+ void       gdk_pixbuf_unref    (GdkPixbuf *pixbuf);
+            ^
+/tmp/SBo/player-3.0.2/utils/playercam/playercam.c:237:5: warning: 'gdk_pixbuf_unref' is deprecated: Use 'g_object_unref' instead [-Wdeprecated-declarations]
+     gdk_pixbuf_unref(pixbuf);
+     ^
+In file included from /usr/include/gdk-pixbuf-2.0/gdk-pixbuf/gdk-pixbuf.h:33:0,
+                 from /usr/include/gtk-2.0/gdk/gdkpixbuf.h:37,
+                 from /usr/include/gtk-2.0/gdk/gdkcairo.h:28,
+                 from /usr/include/gtk-2.0/gdk/gdk.h:33,
+                 from /usr/include/gtk-2.0/gtk/gtk.h:32,
+                 from /tmp/SBo/player-3.0.2/utils/playercam/playercam.c:93:
+/usr/include/gdk-pixbuf-2.0/gdk-pixbuf/gdk-pixbuf-core.h:226:12: note: declared here
+ void       gdk_pixbuf_unref    (GdkPixbuf *pixbuf);
+            ^
+/tmp/SBo/player-3.0.2/utils/playercam/playercam.c: In function 'delete_event':
+/tmp/SBo/player-3.0.2/utils/playercam/playercam.c:297:3: warning: 'gdk_pixbuf_unref' is deprecated: Use 'g_object_unref' instead [-Wdeprecated-declarations]
+   gdk_pixbuf_unref(g_pixbuf);
+   ^
+In file included from /usr/include/gdk-pixbuf-2.0/gdk-pixbuf/gdk-pixbuf.h:33:0,
+                 from /usr/include/gtk-2.0/gdk/gdkpixbuf.h:37,
+                 from /usr/include/gtk-2.0/gdk/gdkcairo.h:28,
+                 from /usr/include/gtk-2.0/gdk/gdk.h:33,
+                 from /usr/include/gtk-2.0/gtk/gtk.h:32,
+                 from /tmp/SBo/player-3.0.2/utils/playercam/playercam.c:93:
+/usr/include/gdk-pixbuf-2.0/gdk-pixbuf/gdk-pixbuf-core.h:226:12: note: declared here
+ void       gdk_pixbuf_unref    (GdkPixbuf *pixbuf);
+            ^
+Scanning dependencies of target playerv
+/tmp/SBo/player-3.0.2/utils/playerwritemap/playerwritemap.c: In function 'create_map_image':
+/tmp/SBo/player-3.0.2/utils/playerwritemap/playerwritemap.c:190:3: warning: 'g_type_init' is deprecated [-Wdeprecated-declarations]
+   g_type_init();
+   ^
+In file included from /usr/include/glib-2.0/gobject/gobject.h:24:0,
+                 from /usr/include/glib-2.0/gobject/gbinding.h:29,
+                 from /usr/include/glib-2.0/glib-object.h:23,
+                 from /usr/include/gdk-pixbuf-2.0/gdk-pixbuf/gdk-pixbuf.h:31,
+                 from /tmp/SBo/player-3.0.2/utils/playerwritemap/playerwritemap.c:46:
+/usr/include/glib-2.0/gobject/gtype.h:681:23: note: declared here
+ void                  g_type_init                    (void);
+                       ^
+[ 33%] Linking C executable playerwritemap
+[ 33%] Building C object utils/playerv/CMakeFiles/playerv.dir/playerv.o
+/tmp/SBo/player-3.0.2/utils/playervcr/playervcr.c: In function 'init_gui':
+/tmp/SBo/player-3.0.2/utils/playervcr/playervcr.c:223:3: warning: 'g_type_init' is deprecated [-Wdeprecated-declarations]
+   g_type_init();
+   ^
+In file included from /usr/include/glib-2.0/gobject/gobject.h:24:0,
+                 from /usr/include/glib-2.0/gobject/gbinding.h:29,
+                 from /usr/include/glib-2.0/glib-object.h:23,
+                 from /usr/include/glib-2.0/gio/gioenums.h:28,
+                 from /usr/include/glib-2.0/gio/giotypes.h:28,
+                 from /usr/include/glib-2.0/gio/gio.h:26,
+                 from /usr/include/gtk-2.0/gdk/gdkapplaunchcontext.h:30,
+                 from /usr/include/gtk-2.0/gdk/gdk.h:32,
+                 from /usr/include/gtk-2.0/gtk/gtk.h:32,
+                 from /tmp/SBo/player-3.0.2/utils/playervcr/playervcr.c:83:
+/usr/include/glib-2.0/gobject/gtype.h:681:23: note: declared here
+ void                  g_type_init                    (void);
+                       ^
+[ 33%] Building C object utils/playerv/CMakeFiles/playerv.dir/registry.o
+[ 33%] Linking C executable playercam
+[ 33%] Linking CXX shared library liblodo.so
+[ 33%] Built target playerwritemap
+Scanning dependencies of target playerxmms
+[ 33%] Building C object utils/xmms-plugin/CMakeFiles/playerxmms.dir/playerxmms.o
+[ 33%] Built target playercam
+[ 33%] Linking C executable playervcr
+[ 33%] Swig source
+[ 33%] Built target lodo
+[ 33%] Swig source
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c: In function 'playerout_init':
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:112:58: warning: pointer targets in passing argument 4 of 'xmms_cfg_read_int' differ in signedness [-Wpointer-sign]
+   xmms_cfg_read_int(cfgfile, "playerout", "server_port", &server_port);
+                                                          ^
+In file included from /tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:31:0:
+/usr/include/xmms/configfile.h:57:10: note: expected 'gint * {aka int *}' but argument is of type 'guint32 * {aka unsigned int *}'
+ gboolean xmms_cfg_read_int(ConfigFile * cfg, gchar * section, gchar * key, gint * value);
+          ^
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:113:59: warning: pointer targets in passing argument 4 of 'xmms_cfg_read_int' differ in signedness [-Wpointer-sign]
+   xmms_cfg_read_int(cfgfile, "playerout", "server_index", &server_index);
+                                                           ^
+In file included from /tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:31:0:
+/usr/include/xmms/configfile.h:57:10: note: expected 'gint * {aka int *}' but argument is of type 'guint32 * {aka unsigned int *}'
+ gboolean xmms_cfg_read_int(ConfigFile * cfg, gchar * section, gchar * key, gint * value);
+          ^
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:114:59: warning: pointer targets in passing argument 4 of 'xmms_cfg_read_int' differ in signedness [-Wpointer-sign]
+   xmms_cfg_read_int (cfgfile, "playerout", "buffer_time", &bufferTime);
+                                                           ^
+In file included from /tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:31:0:
+/usr/include/xmms/configfile.h:57:10: note: expected 'gint * {aka int *}' but argument is of type 'guint32 * {aka unsigned int *}'
+ gboolean xmms_cfg_read_int(ConfigFile * cfg, gchar * section, gchar * key, gint * value);
+          ^
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c: In function 'playerout_open':
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:146:7: warning: unused variable 'pos' [-Wunused-variable]
+  gint pos;
+       ^
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c: At top level:
+/tmp/SBo/player-3.0.2/utils/xmms-plugin/playerxmms.c:59:15: warning: 'pauseStartTime' defined but not used [-Wunused-variable]
+ static double pauseStartTime = 0.0f;
+               ^
+[ 33%] Built target playervcr
+[ 34%] Building C object utils/playerv/CMakeFiles/playerv.dir/mainwnd.o
+[ 34%] Building C object utils/playerv/CMakeFiles/playerv.dir/opt.o
+Scanning dependencies of target playerc++
+[ 34%] Building CXX object client_libs/libplayerc++/CMakeFiles/playerc++.dir/playerc++.o
+In file included from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerclient.h:66:0,
+                 from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerc++.h:61,
+                 from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerc++.cc:44:
+/usr/include/boost/signal.hpp:17:4: warning: #warning "Boost.Signals is no longer being maintained and is now deprecated. Please switch to Boost.Signals2. To disable this warning message, define BOOST_SIGNALS_NO_DEPRECATION_WARNING." [-Wcpp]
+ #  warning                  "Boost.Signals is no longer being maintained and is now deprecated. Please switch to Boost.Signals2. To disable this warning message, define BOOST_SIGNALS_NO_DEPRECATION_WARNING."
+    ^
+/tmp/SBo/player-3.0.2/server/drivers/audio/alsa.cc: In member function 'void Alsa::PrintMixerElements(MixerElement*, uint32_t)':
+/tmp/SBo/player-3.0.2/server/drivers/audio/alsa.cc:1999:56: warning: 'switchStatus' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   cout << "\tActive:\t" << (switchStatus ? "Yes" : "No") << endl;
+                                                        ^
+[ 35%] Building CXX object client_libs/libplayerc++/CMakeFiles/playerc++.dir/playerclient.o
+[ 35%] Linking C static library libplayerxmms.a
+[ 35%] Built target playerxmms
+In file included from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerclient.h:66:0,
+                 from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerc++.h:61,
+                 from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerclient.cc:54:
+/usr/include/boost/signal.hpp:17:4: warning: #warning "Boost.Signals is no longer being maintained and is now deprecated. Please switch to Boost.Signals2. To disable this warning message, define BOOST_SIGNALS_NO_DEPRECATION_WARNING." [-Wcpp]
+ #  warning                  "Boost.Signals is no longer being maintained and is now deprecated. Please switch to Boost.Signals2. To disable this warning message, define BOOST_SIGNALS_NO_DEPRECATION_WARNING."
+    ^
+[ 35%] Building CXX object client_libs/libplayerc++/CMakeFiles/playerc++.dir/playererror.o
+[ 35%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_actarray.o
+[ 35%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/audio/audio_sample.o
+[ 35%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_aio.o
+[ 35%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blackboard/localbb/localbb.o
+[ 35%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/acts/acts.o
+[ 35%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_blobfinder.o
+[ 36%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_camera.o
+[ 37%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/cmvision/cmvision.o
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/cmvision/cmvision.cc: In member function 'int CMVision::encodeRuns(CMVision::rle*, unsigned int*)':
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/cmvision/cmvision.cc:145:7: warning: variable 'size' set but not used [-Wunused-but-set-variable]
+   int size;
+       ^
+[ 37%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_bumper.o
+[ 37%] Building C object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/cmvision/conversions.o
+[ 37%] Building CXX object client_libs/libplayerc++/CMakeFiles/playerc++.dir/clientproxy.o
+In file included from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerclient.h:66:0,
+                 from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerc++.h:61,
+                 from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/clientproxy.cc:46:
+/usr/include/boost/signal.hpp:17:4: warning: #warning "Boost.Signals is no longer being maintained and is now deprecated. Please switch to Boost.Signals2. To disable this warning message, define BOOST_SIGNALS_NO_DEPRECATION_WARNING." [-Wcpp]
+ #  warning                  "Boost.Signals is no longer being maintained and is now deprecated. Please switch to Boost.Signals2. To disable this warning message, define BOOST_SIGNALS_NO_DEPRECATION_WARNING."
+    ^
+In file included from /usr/include/pthread.h:24:0,
+                 from /usr/include/c++/5.3.0/x86_64-slackware-linux/bits/gthr-default.h:35,
+                 from /usr/include/c++/5.3.0/x86_64-slackware-linux/bits/gthr.h:148,
+                 from /usr/include/c++/5.3.0/ext/atomicity.h:35,
+                 from /usr/include/c++/5.3.0/bits/ios_base.h:39,
+                 from /usr/include/c++/5.3.0/ios:42,
+                 from /usr/include/c++/5.3.0/ostream:38,
+                 from /usr/include/c++/5.3.0/iostream:39,
+                 from /tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerclient.cc:48:
+/tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerclient.cc: In member function 'void PlayerCc::PlayerClient::RunThread()':
+/tmp/SBo/player-3.0.2/client_libs/libplayerc++/playerclient.cc:171:34: error: expected unqualified-id before numeric constant
+     boost::xtime_get(&xt, boost::TIME_UTC);
+                                  ^
+[ 37%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_dio.o
+playerc_wrap.i:227: Warning 522: Use of an illegal constructor name 'playerc_client' in %extend is deprecated, the constructor name should be '_playerc_client_t'.
+client_libs/libplayerc++/CMakeFiles/playerc++.dir/build.make:86: recipe for target 'client_libs/libplayerc++/CMakeFiles/playerc++.dir/playerclient.o' failed
+make[2]: *** [client_libs/libplayerc++/CMakeFiles/playerc++.dir/playerclient.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+[ 37%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_fiducial.o
+playerc_wrap.i:227: Warning 522: Use of an illegal constructor name 'playerc_client' in %extend is deprecated, the constructor name should be '_playerc_client_t'.
+[ 37%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_ir.o
+Scanning dependencies of target speech_c_client
+[ 37%] Building C object examples/libplayerc/CMakeFiles/speech_c_client.dir/speech_c_client.o
+[ 37%] Linking C executable speech_c_client
+[ 37%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/cmvision/P2CMV.o
+[ 37%] Built target speech_c_client
+Scanning dependencies of target simple
+[ 38%] Building C object examples/libplayerc/CMakeFiles/simple.dir/simple.o
+[ 39%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_laser.o
+[ 39%] Linking C executable simple
+[ 39%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/searchpattern/searchpattern.o
+[ 39%] Built target simple
+Scanning dependencies of target vmap
+[ 40%] Building C object examples/libplayerc/CMakeFiles/vmap.dir/vmap.o
+Scanning dependencies of target example_client
+[ 40%] Linking C executable vmap
+[ 40%] Building C object examples/plugins/exampleinterface/CMakeFiles/example_client.dir/example_client.o
+[ 40%] Built target vmap
+[ 41%] Linking C executable example_client
+[ 41%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_localize.o
+Scanning dependencies of target lododriver
+[ 41%] Building CXX object utils/pmap/CMakeFiles/lododriver.dir/lodo_driver.o
+[ 41%] Built target example_client
+Scanning dependencies of target pmaptest
+[ 42%] Building CXX object utils/pmap/CMakeFiles/pmaptest.dir/pmap_test.o
+Scanning dependencies of target playercr
+[ 42%] Building C object client_libs/libplayerc/bindings/ruby/CMakeFiles/playercr.dir/playercRUBY_wrap.o
+/tmp/SBo/player-3.0.2/utils/playerv/pv_dev_localize.c: In function 'localize_draw_hypoth':
+/tmp/SBo/player-3.0.2/utils/playerv/pv_dev_localize.c:210:10: warning: variable 'max_weight' set but not used [-Wunused-but-set-variable]
+   double max_weight;
+          ^
+[ 42%] Linking CXX shared library liblododriver.so
+[ 42%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_map.o
+[ 42%] Linking CXX executable pmaptest
+[ 42%] Built target lododriver
+[ 42%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_position2d.o
+[ 43%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/shapetracker/shapetracker.o
+[ 43%] Built target pmaptest
+[ 43%] Building CXX object server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/simpleshape/simpleshape.o
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_new_playerc_client':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49104:40: warning: implicit declaration of function 'new__playerc_client_t' [-Wimplicit-function-declaration]
+   result = (struct _playerc_client_t *)new__playerc_client_t(arg1,(char const *)arg2,arg3);
+                                        ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49104:12: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+   result = (struct _playerc_client_t *)new__playerc_client_t(arg1,(char const *)arg2,arg3);
+            ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_destroy':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49128:3: warning: implicit declaration of function '_playerc_client_t_destroy' [-Wimplicit-function-declaration]
+   _playerc_client_t_destroy(arg1);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_set_transport':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49157:3: warning: implicit declaration of function '_playerc_client_t_set_transport' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_transport(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_connect':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49180:17: warning: implicit declaration of function '_playerc_client_t_connect' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_connect(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_disconnect':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49204:17: warning: implicit declaration of function '_playerc_client_t_disconnect' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_disconnect(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_disconnect_retry':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49228:17: warning: implicit declaration of function '_playerc_client_t_disconnect_retry' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_disconnect_retry(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_datamode':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49256:17: warning: implicit declaration of function '_playerc_client_t_datamode' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_datamode(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_requestdata':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49280:17: warning: implicit declaration of function '_playerc_client_t_requestdata' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_requestdata(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_set_replace_rule':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49344:17: warning: implicit declaration of function '_playerc_client_t_set_replace_rule' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_set_replace_rule(arg1,arg2,arg3,arg4,arg5,arg6);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_adddevice':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49376:17: warning: implicit declaration of function '_playerc_client_t_adddevice' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_adddevice(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_deldevice':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49408:17: warning: implicit declaration of function '_playerc_client_t_deldevice' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_deldevice(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_addcallback':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49453:17: warning: implicit declaration of function '_playerc_client_t_addcallback' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_addcallback(arg1,arg2,arg3,arg4);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_delcallback':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49498:17: warning: implicit declaration of function '_playerc_client_t_delcallback' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_delcallback(arg1,arg2,arg3,arg4);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_get_devlist':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49522:17: warning: implicit declaration of function '_playerc_client_t_get_devlist' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_get_devlist(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_subscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49587:17: warning: implicit declaration of function '_playerc_client_t_subscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_subscribe(arg1,arg2,arg3,arg4,arg5,arg6);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_unsubscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49629:17: warning: implicit declaration of function '_playerc_client_t_unsubscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_unsubscribe(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_request':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49679:17: warning: implicit declaration of function '_playerc_client_t_request' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_request(arg1,arg2,arg3,(void const *)arg4,arg5);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_peek':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49711:17: warning: implicit declaration of function '_playerc_client_t_peek' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_peek(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_internal_peek':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49743:17: warning: implicit declaration of function '_playerc_client_t_internal_peek' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_internal_peek(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_read':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49767:20: warning: implicit declaration of function '_playerc_client_t_read' [-Wimplicit-function-declaration]
+   result = (void *)_playerc_client_t_read(arg1);
+                    ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49767:12: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+   result = (void *)_playerc_client_t_read(arg1);
+            ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_read_nonblock':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49791:17: warning: implicit declaration of function '_playerc_client_t_read_nonblock' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_read_nonblock(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_read_nonblock_withproxy':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49823:17: warning: implicit declaration of function '_playerc_client_t_read_nonblock_withproxy' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_read_nonblock_withproxy(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_set_request_timeout':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49849:3: warning: implicit declaration of function '_playerc_client_t_set_request_timeout' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_request_timeout(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_set_retry_limit':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49878:3: warning: implicit declaration of function '_playerc_client_t_set_retry_limit' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_retry_limit(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_set_retry_time':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49907:3: warning: implicit declaration of function '_playerc_client_t_set_retry_time' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_retry_time(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_client_write':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:49956:17: warning: implicit declaration of function '_playerc_client_t_write' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_write(arg1,arg2,arg3,arg4,arg5);
+                 ^
+[ 43%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_power.o
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_init':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:50849:3: warning: implicit declaration of function '_playerc_device_t_init' [-Wimplicit-function-declaration]
+   _playerc_device_t_init(arg1,arg2,arg3,arg4,arg5);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_term':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:50870:3: warning: implicit declaration of function '_playerc_device_t_term' [-Wimplicit-function-declaration]
+   _playerc_device_t_term(arg1);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_subscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:50901:17: warning: implicit declaration of function '_playerc_device_t_subscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_subscribe(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_unsubscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:50925:17: warning: implicit declaration of function '_playerc_device_t_unsubscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_unsubscribe(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_hascapability':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:50957:17: warning: implicit declaration of function '_playerc_device_t_hascapability' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_hascapability(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_get_boolprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:50998:17: warning: implicit declaration of function '_playerc_device_t_get_boolprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_boolprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_set_boolprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:51047:17: warning: implicit declaration of function '_playerc_device_t_set_boolprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_boolprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_get_intprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:51090:17: warning: implicit declaration of function '_playerc_device_t_get_intprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_intprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_set_intprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:51139:17: warning: implicit declaration of function '_playerc_device_t_set_intprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_intprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_get_dblprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:51182:17: warning: implicit declaration of function '_playerc_device_t_get_dblprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_dblprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_set_dblprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:51225:17: warning: implicit declaration of function '_playerc_device_t_set_dblprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_dblprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_get_strprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:51268:17: warning: implicit declaration of function '_playerc_device_t_get_strprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_strprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c: In function '_wrap_playerc_device_set_strprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/ruby/playercRUBY_wrap.c:51312:17: warning: implicit declaration of function '_playerc_device_t_set_strprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_strprop(arg1,arg2,arg3);
+                 ^
+[ 44%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_ptz.o
+Scanning dependencies of target _playerc
+[ 44%] Building C object client_libs/libplayerc/bindings/python/CMakeFiles/_playerc.dir/playercPYTHON_wrap.o
+[ 44%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_sonar.o
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/shapetracker/shapetracker.cc: In member function 'void ShapeTracker::ContrastStretch(IplImage*, IplImage*)':
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/shapetracker/shapetracker.cc:533:55: error: 'cvQueryHistValue_1D' was not declared in this scope
+     hist_value = cvQueryHistValue_1D(this->hist, index);
+                                                       ^
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/shapetracker/shapetracker.cc:541:55: error: 'cvQueryHistValue_1D' was not declared in this scope
+     hist_value = cvQueryHistValue_1D(this->hist, index);
+                                                       ^
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/shapetracker/shapetracker.cc:557:37: error: 'cvCvtPixToPlane' was not declared in this scope
+   cvCvtPixToPlane(src, R, G, B, NULL);
+                                     ^
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/shapetracker/shapetracker.cc:561:37: error: 'cvCvtPlaneToPix' was not declared in this scope
+   cvCvtPlaneToPix(R, G, B, NULL, src);
+                                     ^
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/simpleshape/simpleshape.cc: In member function 'void SimpleShape::ExtractFeatureSet(CvContour*, FeatureSet*)':
+/tmp/SBo/player-3.0.2/server/drivers/blobfinder/simpleshape/simpleshape.cc:565:13: warning: variable 'n' set but not used [-Wunused-but-set-variable]
+   double d, n, m;
+             ^
+server/libplayerdrivers/CMakeFiles/playerdrivers.dir/build.make:278: recipe for target 'server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/shapetracker/shapetracker.o' failed
+make[2]: *** [server/libplayerdrivers/CMakeFiles/playerdrivers.dir/__/drivers/blobfinder/shapetracker/shapetracker.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+[ 44%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_wifi.o
+[ 44%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_gripper.o
+CMakeFiles/Makefile2:693: recipe for target 'client_libs/libplayerc++/CMakeFiles/playerc++.dir/all' failed
+make[1]: *** [client_libs/libplayerc++/CMakeFiles/playerc++.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 45%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_ranger.o
+[ 45%] Building C object utils/playerv/CMakeFiles/playerv.dir/pv_dev_vectormap.o
+CMakeFiles/Makefile2:3629: recipe for target 'server/libplayerdrivers/CMakeFiles/playerdrivers.dir/all' failed
+make[1]: *** [server/libplayerdrivers/CMakeFiles/playerdrivers.dir/all] Error 2
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_new_playerc_client':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55394:40: warning: implicit declaration of function 'new__playerc_client_t' [-Wimplicit-function-declaration]
+   result = (struct _playerc_client_t *)new__playerc_client_t(arg1,(char const *)arg2,arg3);
+                                        ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55394:12: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+   result = (struct _playerc_client_t *)new__playerc_client_t(arg1,(char const *)arg2,arg3);
+            ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_destroy':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55417:3: warning: implicit declaration of function '_playerc_client_t_destroy' [-Wimplicit-function-declaration]
+   _playerc_client_t_destroy(arg1);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_set_transport':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55447:3: warning: implicit declaration of function '_playerc_client_t_set_transport' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_transport(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_connect':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55469:17: warning: implicit declaration of function '_playerc_client_t_connect' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_connect(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_disconnect':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55491:17: warning: implicit declaration of function '_playerc_client_t_disconnect' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_disconnect(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_disconnect_retry':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55513:17: warning: implicit declaration of function '_playerc_client_t_disconnect_retry' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_disconnect_retry(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_datamode':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55540:17: warning: implicit declaration of function '_playerc_client_t_datamode' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_datamode(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_requestdata':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55562:17: warning: implicit declaration of function '_playerc_client_t_requestdata' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_requestdata(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_set_replace_rule':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55629:17: warning: implicit declaration of function '_playerc_client_t_set_replace_rule' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_set_replace_rule(arg1,arg2,arg3,arg4,arg5,arg6);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_adddevice':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55660:17: warning: implicit declaration of function '_playerc_client_t_adddevice' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_adddevice(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_deldevice':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55691:17: warning: implicit declaration of function '_playerc_client_t_deldevice' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_deldevice(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_addcallback':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55737:17: warning: implicit declaration of function '_playerc_client_t_addcallback' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_addcallback(arg1,arg2,arg3,arg4);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_delcallback':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55783:17: warning: implicit declaration of function '_playerc_client_t_delcallback' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_delcallback(arg1,arg2,arg3,arg4);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_get_devlist':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55805:17: warning: implicit declaration of function '_playerc_client_t_get_devlist' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_get_devlist(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_subscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55873:17: warning: implicit declaration of function '_playerc_client_t_subscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_subscribe(arg1,arg2,arg3,arg4,arg5,arg6);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_unsubscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55915:17: warning: implicit declaration of function '_playerc_client_t_unsubscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_unsubscribe(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_request':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55967:17: warning: implicit declaration of function '_playerc_client_t_request' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_request(arg1,arg2,arg3,(void const *)arg4,arg5);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_peek':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:55998:17: warning: implicit declaration of function '_playerc_client_t_peek' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_peek(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_internal_peek':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56029:17: warning: implicit declaration of function '_playerc_client_t_internal_peek' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_internal_peek(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_read':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56053:22: warning: implicit declaration of function '_playerc_client_t_read' [-Wimplicit-function-declaration]
+     result = (void *)_playerc_client_t_read(arg1);
+                      ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56053:14: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+     result = (void *)_playerc_client_t_read(arg1);
+              ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_read_nonblock':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56077:17: warning: implicit declaration of function '_playerc_client_t_read_nonblock' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_read_nonblock(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_read_nonblock_withproxy':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56108:17: warning: implicit declaration of function '_playerc_client_t_read_nonblock_withproxy' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_read_nonblock_withproxy(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_set_request_timeout':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56134:3: warning: implicit declaration of function '_playerc_client_t_set_request_timeout' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_request_timeout(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_set_retry_limit':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56164:3: warning: implicit declaration of function '_playerc_client_t_set_retry_limit' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_retry_limit(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_set_retry_time':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56194:3: warning: implicit declaration of function '_playerc_client_t_set_retry_time' [-Wimplicit-function-declaration]
+   _playerc_client_t_set_retry_time(arg1,arg2);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_client_write':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:56246:17: warning: implicit declaration of function '_playerc_client_t_write' [-Wimplicit-function-declaration]
+   result = (int)_playerc_client_t_write(arg1,arg2,arg3,arg4,arg5);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_init':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57142:3: warning: implicit declaration of function '_playerc_device_t_init' [-Wimplicit-function-declaration]
+   _playerc_device_t_init(arg1,arg2,arg3,arg4,arg5);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_term':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57163:3: warning: implicit declaration of function '_playerc_device_t_term' [-Wimplicit-function-declaration]
+   _playerc_device_t_term(arg1);
+   ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_subscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57194:17: warning: implicit declaration of function '_playerc_device_t_subscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_subscribe(arg1,arg2);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_unsubscribe':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57216:17: warning: implicit declaration of function '_playerc_device_t_unsubscribe' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_unsubscribe(arg1);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_hascapability':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57248:17: warning: implicit declaration of function '_playerc_device_t_hascapability' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_hascapability(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_get_boolprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57289:17: warning: implicit declaration of function '_playerc_device_t_get_boolprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_boolprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_set_boolprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57338:17: warning: implicit declaration of function '_playerc_device_t_set_boolprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_boolprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_get_intprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57381:17: warning: implicit declaration of function '_playerc_device_t_get_intprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_intprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_set_intprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57430:17: warning: implicit declaration of function '_playerc_device_t_set_intprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_intprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_get_dblprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57473:17: warning: implicit declaration of function '_playerc_device_t_get_dblprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_dblprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_set_dblprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57516:17: warning: implicit declaration of function '_playerc_device_t_set_dblprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_dblprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_get_strprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57559:17: warning: implicit declaration of function '_playerc_device_t_get_strprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_get_strprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_device_set_strprop':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:57603:17: warning: implicit declaration of function '_playerc_device_t_set_strprop' [-Wimplicit-function-declaration]
+   result = (int)_playerc_device_t_set_strprop(arg1,arg2,arg3);
+                 ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_graphics2d_setcolor':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:65343:18: warning: variable 'temp2' set but not used [-Wunused-but-set-variable]
+   player_color_t temp2 ;
+                  ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_graphics2d_draw_polygon':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:65532:18: warning: variable 'temp5' set but not used [-Wunused-but-set-variable]
+   player_color_t temp5 ;
+                  ^
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c: In function '_wrap_playerc_graphics3d_setcolor':
+/tmp/SBo/player-3.0.2/build/client_libs/libplayerc/bindings/python/playercPYTHON_wrap.c:65885:18: warning: variable 'temp2' set but not used [-Wunused-but-set-variable]
+   player_color_t temp2 ;
+                  ^
+[ 45%] Linking C executable playerv
+[ 45%] Built target playerv
+[ 45%] Linking C shared module playercr.so
+[ 45%] Built target playercr
+[ 45%] Linking C shared module _playerc.so
+[ 45%] Built target _playerc
+Makefile:149: recipe for target 'all' failed
+make: *** [all] Error 2

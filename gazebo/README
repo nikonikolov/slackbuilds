@@ -1,0 +1,22 @@
+Gazebo - A dynamic multi-robot simulator. Gazebo simulates multiple robots in a
+3D environment, with extensive dynamic interaction between objects. 
+
+http://gazebosim.org
+
+Optional dependencies:
+========
+
+Available on SlackBuilds:
+
+hdf5
+gts (GNU Triangulated Surface Library) - enables CSG support
+Bullet - enables Oculus Rift support
+GDAL - enables support for Digital elevation terrains
+graphviz - enables support for Model editor's schematic view and OpenSource Virtual Reality (OSVR)
+
+Not yet available on SlackBuilds:
+
+Simbody - https://github.com/simbody/simbody
+DART - http://dartsim.github.io/index.html
+Player - http://playerstage.sourceforge.net/
+ronn - https://github.com/rtomayko/ronn ; enables manpages

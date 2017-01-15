@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+      |-----handy-ruler------------------------------------------------------|
+player: player - robot device interface
+player:
+player: Provides a network interface to a variety of robot and sensor hardware
+player: over the IP network. Your client program talks to Player over a TCP 
+player: socket, reading data from sensors, writing commmands to actuators, and 
+player: configuring devices on the fly.This library is a self-contained set of 
+player: classes and functions
+player:
+player:
+player:
+player:
