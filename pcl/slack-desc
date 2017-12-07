@@ -6,14 +6,14 @@
 # customary to leave one space after the ':' except on otherwise blank lines.
 
    |-----handy-ruler------------------------------------------------------|
-pcl: The Point Cloud Library (or PCL) is a large scale, open project for 
+pcl: pcl (2D/3D image library)
+pcl:
+pcl: The Point Cloud Library (or PCL) is a large scale, open project for
 pcl: 2D/3D image and point cloud processing
 pcl:
-pcl: PCL contains algorithms such as filtering, feature estimation, 
-pcl: surface reconstruction, registration, model fitting and segmentation. 
+pcl: PCL contains algorithms such as filtering, feature estimation,
+pcl: surface reconstruction, registration, model fitting and segmentation.
 pcl:
 pcl:
 pcl: Homepage: http://pointclouds.org/
-pcl:
-pcl:
 pcl:
