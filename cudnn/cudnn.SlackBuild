@@ -23,10 +23,12 @@
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 PRGNAM=cudnn
-VERSION=${VERSION:-v5.1}
-CUDA_VERSION=${CUDA_VERSION:-8.0}
+VERSION=${VERSION:-v7.1_9.0}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
+
+CUDNN_VERSION=${VERSION%_*}
+CUDA_VERSION=${VERSION#*_}
 
 if [ -z "$ARCH" ]; then
   case "$( uname -m )" in
@@ -60,8 +62,8 @@ set -e
 rm -rf $PKG
 mkdir -p $TMP $PKG $OUTPUT
 cd $TMP
-rm -rf $PRGNAM-$VERSION
-tar xvf $CWD/$PRGNAM-$CUDA_VERSION-linux-x64-$VERSION.tgz
+rm -rf cuda
+tar xvf $CWD/$PRGNAM-$CUDA_VERSION-linux-x64-$CUDNN_VERSION.tgz
 cd cuda
 chown -R root:root .
 find -L . \
@@ -70,14 +72,12 @@ find -L . \
  \( -perm 666 -o -perm 664 -o -perm 640 -o -perm 600 -o -perm 444 \
   -o -perm 440 -o -perm 400 \) -exec chmod 644 {} \;
 
-mkdir -p \
-  $PKG/usr/share/cuda/include \
-  $PKG/usr/share/cuda/lib64
-
+mkdir -p $PKG/usr/share/cuda/include
 cp -P \
   include/cudnn.h \
 $PKG/usr/share/cuda/include
 
+mkdir -p $PKG/usr/share/cuda/lib64
 cp -P \
   lib64/libcudnn* \
 $PKG/usr/share/cuda/lib64
@@ -92,4 +92,4 @@ mkdir -p $PKG/install
 cat $CWD/slack-desc > $PKG/install/slack-desc
 
 cd $PKG
-/sbin/makepkg -l y -c n $OUTPUT/$PRGNAM-$VERSION\_$CUDA_VERSION-$ARCH-$BUILD$TAG.${PKGTYPE:-tgz}
+/sbin/makepkg -l y -c n $OUTPUT/$PRGNAM-$VERSION-$ARCH-$BUILD$TAG.${PKGTYPE:-tgz}
