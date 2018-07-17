@@ -2,7 +2,7 @@
 
 # Slackware build script for xf86-input-libinput
 
-# Copyright 2016 Nikolay Nikolov <nikobnikolov[at]gmail[dot]com>
+# Copyright 2017 Nikolay Nikolov <nikobnikolov[at]gmail[dot]com>
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
@@ -23,7 +23,7 @@
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 PRGNAM=xf86-input-libinput
-VERSION=${VERSION:-0.25.0}
+VERSION=${VERSION:-0.28.0}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
@@ -91,32 +91,26 @@ make install DESTDIR=$PKG
 find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
 
-# Compress man pages
 find $PKG/usr/man -type f -exec gzip -9 {} \;
 for i in $( find $PKG/usr/man -type l ) ; do ln -s $( readlink $i ).gz $i.gz ; rm $i ; done
 
-# Compress info pages and remove the package's dir file
 rm -f $PKG/usr/info/dir
 
-# Remove perllocal.pod and other special files that don't need to be installed,
 find $PKG -name perllocal.pod \
   -o -name ".packlist" \
   -o -name "*.bs" \
   | xargs rm -f
 
-# Copy program documentation into the package
 mkdir -p $PKG/usr/doc/$PRGNAM-$VERSION
-cp -a \
-  README.md COPYING \
-  $PKG/usr/doc/$PRGNAM-$VERSION
+cp -a README.md COPYING $PKG/usr/doc/$PRGNAM-$VERSION
 cat $CWD/$PRGNAM.SlackBuild > $PKG/usr/doc/$PRGNAM-$VERSION/$PRGNAM.SlackBuild
+
+mv $PKG/usr/share/X11/xorg.conf.d/*-libinput.conf $PKG/usr/share/X11/xorg.conf.d/90-libinput.conf
+mkdir -p $PKG/etc/X11/xorg.conf.d/
+cp $PKG/usr/share/X11/xorg.conf.d/90-libinput.conf $PKG/etc/X11/xorg.conf.d/
 
 mkdir -p $PKG/install
 cat $CWD/slack-desc > $PKG/install/slack-desc
-cat $CWD/doinst.sh > $PKG/install/doinst.sh
 
-# Make the package; be sure to leave it in $OUTPUT
 cd $PKG
 /sbin/makepkg -l y -c n $OUTPUT/$PRGNAM-$VERSION-$ARCH-$BUILD$TAG.${PKGTYPE:-tgz}
-
-
