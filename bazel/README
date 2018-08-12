@@ -1,0 +1,4 @@
+Bazel is an open-source build and test tool by Google. It is similar to Make,
+Maven, and Gradle. It uses a human-readable, high-level build language. Bazel
+supports projects in multiple languages and builds outputs for multiple
+platforms.
