@@ -1,4 +1,4 @@
-PRGNAM="network-manager-l2tp"
+PRGNAM="NetworkManager-l2tp"
 VERSION="1.2.12"
 HOMEPAGE="https://github.com/nm-l2tp/network-manager-l2tp"
 DOWNLOAD="https://github.com/nm-l2tp/network-manager-l2tp/archive/1.2.12.tar.gz"
